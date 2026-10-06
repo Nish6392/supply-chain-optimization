@@ -1,0 +1,14 @@
+{
+  "planning_month": "2022-04",
+  "total_daily_demand_units": 2903542.8,
+  "optimized_transport_cost_per_day": 8023633.63,
+  "baseline_transport_cost_per_day": 8213001.11,
+  "daily_savings": 189367.48,
+  "savings_pct": 2.31,
+  "annualized_savings": 69119130.0,
+  "total_daily_holding_cost_current_inventory": 3114715.76,
+  "terminals_below_or_at_risk_of_rop": 2,
+  "avg_terminal_utilization_pct": 26.0,
+  "forecast_MAE_model": 3631.75,
+  "forecast_MAE_naive_mean": 8785.99
+}

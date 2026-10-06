@@ -1,0 +1,9 @@
+terminal_id,terminal_name,location,lat,lon,throughput_cap_units_per_day,holding_cost_per_unit_per_day,current_inventory_units
+T1,Houston Terminal,"Houston, TX",29.7604,-95.3698,1848538.0,0.09,6967567.0
+T2,Dallas Terminal,"Dallas, TX",32.7767,-96.797,1493050.0,0.1,4408053.0
+T3,Memphis Terminal,"Memphis, TN",35.1495,-90.049,1208660.0,0.1,248842.0
+T4,Atlanta Terminal,"Atlanta, GA",33.749,-84.388,1635245.0,0.11,5261224.0
+T5,Chicago Terminal,"Chicago, IL",41.8781,-87.6298,1706343.0,0.12,6114395.0
+T6,Denver Terminal,"Denver, CO",39.7392,-104.9903,1066464.0,0.11,632769.0
+T7,Kansas City Terminal,"Kansas City, MO",39.0997,-94.5786,1137562.0,0.1,3483783.0
+T8,Nashville Terminal,"Nashville, TN",36.1627,-86.7816,1066464.0,0.1,2915003.0

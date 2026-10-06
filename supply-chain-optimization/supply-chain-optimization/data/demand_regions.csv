@@ -1,0 +1,16 @@
+region_id,region_name,location,lat,lon,lead_time_days,service_level_z,state,us_share_pct
+D1,Texas Market,"Austin, TX",30.2672,-97.7431,1.5,1.65,Texas,11.336
+D2,Oklahoma Market,"Oklahoma City, OK",35.4676,-97.5164,2.0,1.65,Oklahoma,1.512
+D3,Louisiana Market,"New Orleans, LA",29.9511,-90.0715,1.5,1.65,Louisiana,2.05
+D4,Mississippi Market,"Jackson, MS",32.2988,-90.1848,2.0,1.65,Mississippi,1.142
+D5,Alabama Market,"Birmingham, AL",33.5186,-86.8104,2.0,1.65,Alabama,1.999
+D6,North Carolina Market,"Charlotte, NC",35.2271,-80.8431,2.5,1.65,North Carolina,3.399
+D7,Kentucky Market,"Louisville, KY",38.2527,-85.7585,2.0,1.65,Kentucky,1.586
+D8,Indiana Market,"Indianapolis, IN",39.7684,-86.1581,2.0,1.65,Indiana,2.316
+D9,Missouri Market,"St. Louis, MO",38.627,-90.1994,2.0,1.65,Missouri,2.209
+D10,Nebraska Market,"Omaha, NE",41.2565,-95.9345,2.5,1.65,Nebraska,0.631
+D11,Minnesota Market,"Minneapolis, MN",44.9778,-93.265,2.5,1.65,Minnesota,1.657
+D12,Arizona Market,"Phoenix, AZ",33.4484,-112.074,3.0,1.65,Arizona,2.332
+D13,New Mexico Market,"Albuquerque, NM",35.0844,-106.6504,2.5,1.65,New Mexico,0.751
+D14,Arkansas Market,"Little Rock, AR",34.7465,-92.2896,2.0,1.65,Arkansas,1.037
+D15,Kansas Market,"Wichita, KS",37.6872,-97.3301,2.0,1.65,Kansas,1.2

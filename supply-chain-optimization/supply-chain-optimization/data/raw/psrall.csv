@@ -1,0 +1,1562 @@
+"Area","Product","February_2022","March_2022","YTD_2021","YTD_2022","PctChgMonthAgo","PctChgYearAgo","PctChg_YTD"
+"United States","Motor Gasoline",9509065,10667682,28975889,29962445,1.3,0.1,3.4
+"United States","Regular",8268317,9375486,24895218,26132073,2.4,2.2,5.0
+"United States","Conventional",5702839,6471150,17264380,18002321,2.5,1.8,4.3
+"United States","Reformulated",2565478,2904336,7630838,8129752,2.3,3.0,6.5
+"United States","Midgrade",101192,98903,410712,307739,-11.7,-34.2,-25.1
+"United States","Conventional",67581,63337,269492,203356,-15.3,-35.8,-24.5
+"United States","Reformulated",33611,35566,141220,104383,-4.4,-31.2,-26.1
+"United States","Premium",1139556,1193293,3669959,3522633,-5.4,-10.2,-4.0
+"United States","Conventional",628430,664263,2066573,1953062,-4.5,-10.9,-5.5
+"United States","Reformulated",511126,529030,1603386,1569571,-6.5,-9.4,-2.1
+"United States","Total Distillate",5149325,5632534,15516534,16185528,-1.2,2.6,4.3
+"United States","No. 1 Distillate",83972,35723,198814,227349,-61.6,19.7,14.4
+"United States","No. 2 Distillate",5056249,5588801,15289526,15929296,-0.2,2.5,4.2
+"United States","No. 2 Fuel Oil",503285,354105,1335589,1405436,-36.5,-5.5,5.2
+"United States","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"United States","Ultra Low Sulfur",4511384,5184760,13868197,14379874,3.8,2.8,3.7
+"United States","Low Sulfur","W","W","W","W","W","W","NA"
+"United States","High Sulfur","W","W","W","W","W","W","NA"
+"United States","No. 4 Fuel",9104,8010,28194,28883,-20.5,11.7,2.4
+"United States","Aviation Gasoline",10131,13718,34122,33827,22.3,8.1,-0.9
+"United States","Kerosene-Type Jet Fu",1542753,1749013,3781205,4987385,2.4,19.8,31.9
+"United States","Kerosene",39059,28962,91992,115202,-33.0,64.9,25.2
+"United States","Propane",1234974,1027448,3536073,3657136,-24.9,8.9,3.4
+"United States","Residual Fuel Oil",261009,266466,716168,807311,-7.8,-2.5,12.7
+"United States","Sulfur Content  <= 1",132462,141621,470381,422244,-3.4,-23.0,-10.2
+"United States","Sulfur Content  > 1",128547,124845,245787,385067,-12.3,39.7,56.7
+"PAD District 1","Motor Gasoline",3231786,3589514,9787156,10092255,0.3,-0.2,3.1
+"PAD District 1","Regular",2806820,3145990,8387885,8786245,1.2,1.9,4.7
+"PAD District 1","Conventional",1811088,2036276,5451113,5648887,1.6,1.5,3.6
+"PAD District 1","Reformulated",995732,1109714,2936772,3137358,0.7,2.8,6.8
+"PAD District 1","Midgrade",36345,37635,153240,111470,-6.5,-33.1,-27.3
+"PAD District 1","Conventional",25468,26275,107676,78013,-6.8,-33.8,-27.5
+"PAD District 1","Reformulated",10877,11360,45564,33457,-5.7,-31.5,-26.6
+"PAD District 1","Premium",388621,405889,1246031,1194540,-5.7,-10.4,-4.1
+"PAD District 1","Conventional",209943,223912,696374,649412,-3.7,-11.2,-6.7
+"PAD District 1","Reformulated",178678,181977,549657,545128,-8.0,-9.4,-0.8
+"PAD District 1","Total Distillate",1712024,1701034,5089786,5249912,-10.3,-1.1,3.1
+"PAD District 1","No. 1 Distillate",3521,1076,7581,9323,-72.4,-27.5,23.0
+"PAD District 1","No. 2 Distillate",1699399,1691948,5054011,5211706,-10.1,-1.1,3.1
+"PAD District 1","No. 2 Fuel Oil",460567,325197,1252764,1307453,-36.2,-10.2,4.4
+"PAD District 1","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"PAD District 1","Ultra Low Sulfur",1225958,1350290,3784296,3860488,-0.5,0.6,2.0
+"PAD District 1","Low Sulfur","-","-","-","-","-","-","-"
+"PAD District 1","High Sulfur",12874,16461,16951,43765,15.5,156.8,158.2
+"PAD District 1","No. 4 Fuel",9104,8010,28194,28883,-20.5,11.7,2.4
+"PAD District 1","Aviation Gasoline",3410,4421,10477,11047,17.1,3.5,5.4
+"PAD District 1","Kerosene-Type Jet Fu",351578,412278,739223,1136628,5.9,36.1,53.8
+"PAD District 1","Kerosene",15745,7681,48157,45031,-55.9,-19.4,-6.5
+"PAD District 1","Propane",335734,242749,1025837,930124,-34.7,-17.6,-9.3
+"PAD District 1","Residual Fuel Oil",107945,107432,"W",316306,-10.1,26.0,"NA"
+"PAD District 1","Sulfur Content  <= 1",54519,51669,139165,160424,-14.4,-1.4,15.3
+"PAD District 1","Sulfur Content  > 1",53426,55763,"W",155882,-5.7,69.7,"NA"
+"Subdistrict 1A","Motor Gasoline",408386,443639,1236471,1298525,-1.9,-1.0,5.0
+"Subdistrict 1A","Regular",353808,389753,1060538,1131281,-0.5,1.2,6.7
+"Subdistrict 1A","Conventional",56951,63087,124946,177682,0.1,42.1,42.2
+"Subdistrict 1A","Reformulated",296857,326666,935592,953599,-0.6,-4.1,1.9
+"Subdistrict 1A","Midgrade",4118,3903,16476,12206,-14.4,-33.6,-25.9
+"Subdistrict 1A","Conventional",923,715,2205,2319,-30.0,-2.1,5.2
+"Subdistrict 1A","Reformulated",3195,3188,14271,9887,-9.9,-38.1,-30.7
+"Subdistrict 1A","Premium",50460,49983,159457,155038,-10.5,-12.9,-2.8
+"Subdistrict 1A","Conventional",4073,4163,9952,12053,-7.7,30.8,21.1
+"Subdistrict 1A","Reformulated",46387,45820,149505,142985,-10.8,-15.5,-4.4
+"Subdistrict 1A","Total Distillate","W","W","W","W","W","W","W"
+"Subdistrict 1A","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Subdistrict 1A","No. 2 Distillate",329803,270776,922887,974532,-25.8,-4.0,5.6
+"Subdistrict 1A","No. 2 Fuel Oil",210065,154906,578647,598144,-33.4,-6.1,3.4
+"Subdistrict 1A","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Subdistrict 1A","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Subdistrict 1A","Low Sulfur","-","-","-","-","-","-","-"
+"Subdistrict 1A","High Sulfur","W","W","W","W","W","W","NA"
+"Subdistrict 1A","No. 4 Fuel","W","W","W","W","W","W","NA"
+"Subdistrict 1A","Aviation Gasoline",254,414,940,915,47.2,14.4,-2.7
+"Subdistrict 1A","Kerosene-Type Jet Fu",32355,45280,68622,112536,26.4,52.4,64.0
+"Subdistrict 1A","Kerosene","W",3735,"W","W",,-8.4,"NA"
+"Subdistrict 1A","Propane",79620,64744,226484,230549,-26.6,-8.7,1.8
+"Subdistrict 1A","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Subdistrict 1A","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Subdistrict 1A","Sulfur Content  > 1","-","-","W","-","-","-","NA"
+"Connecticut","Motor Gasoline",99991,108408,315478,320422,-2.1,-6.0,1.6
+"Connecticut","Regular",84198,92458,263280,270877,-0.8,-4.1,2.9
+"Connecticut","Conventional","-","-","-","-","-","-","-"
+"Connecticut","Reformulated",84198,92458,263280,270877,-0.8,-4.1,2.9
+"Connecticut","Midgrade",783,767,2344,2366,-11.5,-10.3,0.9
+"Connecticut","Conventional","-","-","-","-","-","-","-"
+"Connecticut","Reformulated",783,767,2344,2366,-11.5,-10.3,0.9
+"Connecticut","Premium",15010,15183,49854,47179,-8.6,-16.4,-5.4
+"Connecticut","Conventional","-","-","-","-","-","-","-"
+"Connecticut","Reformulated",15010,15183,49854,47179,-8.6,-16.4,-5.4
+"Connecticut","Total Distillate","W","W","W","W","W","W","W"
+"Connecticut","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Connecticut","No. 2 Distillate",81327,66211,229481,234736,-26.5,-2.8,2.3
+"Connecticut","No. 2 Fuel Oil",52413,36848,145145,146486,-36.5,-7.0,0.9
+"Connecticut","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Connecticut","Ultra Low Sulfur","W",29363,84336,"W",,3.0,"NA"
+"Connecticut","Low Sulfur","-","-","-","-","-","-","-"
+"Connecticut","High Sulfur","W","-","-","W","-","-","NA"
+"Connecticut","No. 4 Fuel","W","W","-","W","W","W","NA"
+"Connecticut","Aviation Gasoline",28,88,158,143,183.9,31.3,-9.5
+"Connecticut","Kerosene-Type Jet Fu",4265,6659,9793,15288,41.0,39.1,56.1
+"Connecticut","Kerosene","W","W","W","W","W","W","NA"
+"Connecticut","Propane",7186,5620,19499,20968,-29.4,-1.4,7.5
+"Connecticut","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Connecticut","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Connecticut","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Maine","Motor Gasoline",48027,50830,143149,149769,-4.4,-1.6,4.6
+"Maine","Regular",43913,47272,130667,138101,-2.8,-0.1,5.7
+"Maine","Conventional",32922,37237,49789,99324,2.2,104.4,99.5
+"Maine","Reformulated",10991,10035,80878,38777,-17.5,-65.5,-52.1
+"Maine","Midgrade",928,707,2472,2440,-31.2,-16.2,-1.3
+"Maine","Conventional","W","W",1563,"W","W","W","NA"
+"Maine","Reformulated","W","W",909,"W","W","W","NA"
+"Maine","Premium",3186,2851,10010,9228,-19.2,-18.5,-7.8
+"Maine","Conventional","W","W",2997,"W","W","W","NA"
+"Maine","Reformulated","W","W",7013,"W","W","W","NA"
+"Maine","Total Distillate","W","W","W","W","W","W","W"
+"Maine","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Maine","No. 2 Distillate",57846,50669,165265,171614,-20.9,-4.9,3.8
+"Maine","No. 2 Fuel Oil",39664,32521,106843,116130,-25.9,0.5,8.7
+"Maine","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Maine","Ultra Low Sulfur",18182,18148,"W",55484,-9.8,,"NA"
+"Maine","Low Sulfur","-","-","-","-","-","-","-"
+"Maine","High Sulfur","-","-","W","-","-","-","NA"
+"Maine","No. 4 Fuel","-","W","W","W","W","W","NA"
+"Maine","Aviation Gasoline","W",60,"W","W",,22.4,"NA"
+"Maine","Kerosene-Type Jet Fu",2651,3563,6929,8015,21.4,30.8,15.7
+"Maine","Kerosene","W",2379,9912,"W",,-11.2,"NA"
+"Maine","Propane",20751,16903,57630,61243,-26.4,-3.2,6.3
+"Maine","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Maine","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Maine","Sulfur Content  > 1","-","-","W","-","-","-","NA"
+"Massachusetts","Motor Gasoline",159681,178112,471234,513126,0.7,3.6,8.9
+"Massachusetts","Regular",136781,154616,398274,441773,2.1,6.4,10.9
+"Massachusetts","Conventional","-","-","-","-","-","-","-"
+"Massachusetts","Reformulated",136781,154616,398274,441773,2.1,6.4,10.9
+"Massachusetts","Midgrade",1716,1732,8399,5256,-8.8,-43.1,-37.4
+"Massachusetts","Conventional","-","-","-","-","-","-","-"
+"Massachusetts","Reformulated",1716,1732,8399,5256,-8.8,-43.1,-37.4
+"Massachusetts","Premium",21184,21764,64561,66097,-7.2,-7.4,2.4
+"Massachusetts","Conventional","-","-","-","-","-","-","-"
+"Massachusetts","Reformulated",21184,21764,64561,66097,-7.2,-7.4,2.4
+"Massachusetts","Total Distillate","W","W","W","W","W","W","W"
+"Massachusetts","No. 1 Distillate",394,"W","W","W",,"W","NA"
+"Massachusetts","No. 2 Distillate",106943,85568,277135,315960,-27.7,-0.2,14.0
+"Massachusetts","No. 2 Fuel Oil",63570,43529,158039,175156,-38.2,-4.4,10.8
+"Massachusetts","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Massachusetts","Ultra Low Sulfur",43373,"W","W","W",,"W","NA"
+"Massachusetts","Low Sulfur","-","-","-","-","-","-","-"
+"Massachusetts","High Sulfur","-","W","W","W","W","W","NA"
+"Massachusetts","No. 4 Fuel","W","W","W","W","W","W","NA"
+"Massachusetts","Aviation Gasoline",106,211,426,459,79.8,36.1,7.7
+"Massachusetts","Kerosene-Type Jet Fu",21040,29695,42745,75085,27.5,62.9,75.7
+"Massachusetts","Kerosene","W",288,1468,"W",,-29.2,"NA"
+"Massachusetts","Propane",16288,13602,41012,46595,-24.6,13.1,13.6
+"Massachusetts","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Massachusetts","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Massachusetts","Sulfur Content  > 1","-","-","W","-","-","-","NA"
+"New Hampshire","Motor Gasoline",39801,41205,117059,121984,-6.5,-0.3,4.2
+"New Hampshire","Regular",35716,37621,104291,110298,-4.9,1.8,5.8
+"New Hampshire","Conventional",7979,8137,25015,25268,-7.9,-6.9,1.0
+"New Hampshire","Reformulated",27737,29484,79276,85030,-4.0,4.5,7.3
+"New Hampshire","Midgrade",228,224,1132,711,-11.3,-44.0,-37.2
+"New Hampshire","Conventional","W","W",195,"W","W","W","NA"
+"New Hampshire","Reformulated","W","W",937,"W","W","W","NA"
+"New Hampshire","Premium",3857,3360,11636,10975,-21.3,-15.5,-5.7
+"New Hampshire","Conventional","W","W",1777,"W","W","W","NA"
+"New Hampshire","Reformulated","W","W",9859,"W","W","W","NA"
+"New Hampshire","Total Distillate","W","W","W","W","W","W","W"
+"New Hampshire","No. 1 Distillate","W","W","W","W","W","W","NA"
+"New Hampshire","No. 2 Distillate",41592,32361,108407,125836,-29.7,2.1,16.1
+"New Hampshire","No. 2 Fuel Oil",25718,20127,75974,76254,-29.3,-3.9,0.4
+"New Hampshire","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"New Hampshire","Ultra Low Sulfur",15874,12234,32433,49582,-30.4,14.0,52.9
+"New Hampshire","Low Sulfur","-","-","-","-","-","-","-"
+"New Hampshire","High Sulfur","-","-","-","-","-","-","-"
+"New Hampshire","No. 4 Fuel","W","W","W","W","W","W","NA"
+"New Hampshire","Aviation Gasoline","W",33,137,"W",,-35.3,"NA"
+"New Hampshire","Kerosene-Type Jet Fu",1853,1897,4406,5649,-7.5,18.1,28.2
+"New Hampshire","Kerosene",783,621,2207,2513,-28.4,16.5,13.9
+"New Hampshire","Propane",21173,16749,67723,60519,-28.5,-29.1,-10.6
+"New Hampshire","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"New Hampshire","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"New Hampshire","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Rhode Island","Motor Gasoline",43120,45860,133784,134978,-3.9,-6.1,0.9
+"Rhode Island","Regular",37150,40073,113884,117142,-2.6,-3.6,2.9
+"Rhode Island","Conventional","-","-","-","-","-","-","-"
+"Rhode Island","Reformulated",37150,40073,113884,117142,-2.6,-3.6,2.9
+"Rhode Island","Midgrade","W",371,1682,"W",,-36.8,"NA"
+"Rhode Island","Conventional","-","-","-","-","-","-","-"
+"Rhode Island","Reformulated","W",371,1682,"W",,-36.8,"NA"
+"Rhode Island","Premium","W",5416,18218,"W",,-19.0,"NA"
+"Rhode Island","Conventional","-","-","-","-","-","-","-"
+"Rhode Island","Reformulated","W",5416,18218,"W",,-19.0,"NA"
+"Rhode Island","Total Distillate","W","W","W","W","W","W","W"
+"Rhode Island","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Rhode Island","No. 2 Distillate",23443,19264,90126,68995,-25.8,-28.5,-23.4
+"Rhode Island","No. 2 Fuel Oil",15064,10696,55275,43372,-35.9,-29.9,-21.5
+"Rhode Island","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Rhode Island","Ultra Low Sulfur",8379,8568,"W",25623,-7.6,-26.7,"NA"
+"Rhode Island","Low Sulfur","-","-","-","-","-","-","-"
+"Rhode Island","High Sulfur","-","-","W","-","-","-","NA"
+"Rhode Island","No. 4 Fuel","W","W","W","W","W","W","NA"
+"Rhode Island","Aviation Gasoline","W","W","W","W","W","W","NA"
+"Rhode Island","Kerosene-Type Jet Fu",1579,2143,2293,5308,22.6,66.9,131.5
+"Rhode Island","Kerosene","W","W","W","W","W","W","NA"
+"Rhode Island","Propane",2066,1805,5035,6093,-21.1,17.7,21.0
+"Rhode Island","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Rhode Island","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Rhode Island","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Vermont","Motor Gasoline",17766,19224,55767,58246,-2.3,0.2,4.4
+"Vermont","Regular",16050,17713,50142,53090,-0.3,1.5,5.9
+"Vermont","Conventional",16050,17713,50142,53090,-0.3,1.5,5.9
+"Vermont","Reformulated","-","-","-","-","-","-","-"
+"Vermont","Midgrade","W",102,447,"W",,-32.0,"NA"
+"Vermont","Conventional","W",102,447,"W",,-32.0,"NA"
+"Vermont","Reformulated","-","-","-","-","-","-","-"
+"Vermont","Premium","W",1409,5178,"W",,-11.4,"NA"
+"Vermont","Conventional","W",1409,5178,"W",,-11.4,"NA"
+"Vermont","Reformulated","-","-","-","-","-","-","-"
+"Vermont","Total Distillate","W","W","W","W","W","W","W"
+"Vermont","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Vermont","No. 2 Distillate",18652,16703,52473,57391,-19.1,2.7,9.4
+"Vermont","No. 2 Fuel Oil",13636,11185,37371,40746,-25.9,0.1,9.0
+"Vermont","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Vermont","Ultra Low Sulfur",5016,5518,15102,16645,-0.6,8.5,10.2
+"Vermont","Low Sulfur","-","-","-","-","-","-","-"
+"Vermont","High Sulfur","-","-","-","-","-","-","-"
+"Vermont","No. 4 Fuel","W","W","W","W","W","W","NA"
+"Vermont","Aviation Gasoline","W","W","W","W","W","W","NA"
+"Vermont","Kerosene-Type Jet Fu",967,1323,2456,3191,23.6,22.8,29.9
+"Vermont","Kerosene",518,312,"W",1616,-45.6,,"NA"
+"Vermont","Propane",12156,10065,35585,35131,-25.2,-4.8,-1.3
+"Vermont","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Vermont","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Vermont","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Subdistrict 1B","Motor Gasoline",1065919,1167930,3171853,3318702,-1.0,0.3,4.6
+"Subdistrict 1B","Regular",916286,1016469,2695826,2864960,0.2,2.5,6.3
+"Subdistrict 1B","Conventional",317064,345510,987767,991344,-1.6,-4.6,0.4
+"Subdistrict 1B","Reformulated",599222,670959,1708059,1873616,1.1,6.5,9.7
+"Subdistrict 1B","Midgrade",8818,8945,39293,26502,-8.4,-37.1,-32.6
+"Subdistrict 1B","Conventional",1986,1647,11742,5634,-25.1,-60.6,-52.0
+"Subdistrict 1B","Reformulated",6832,7298,27551,20868,-3.5,-27.3,-24.3
+"Subdistrict 1B","Premium",140815,142516,436734,427240,-8.6,-10.1,-2.2
+"Subdistrict 1B","Conventional",26352,25234,91567,79299,-13.5,-21.8,-13.4
+"Subdistrict 1B","Reformulated",114463,117282,345167,347941,-7.5,-7.1,0.8
+"Subdistrict 1B","Total Distillate","W","W","W","W","W","W","W"
+"Subdistrict 1B","No. 1 Distillate","W",502,"W","W",,-6.5,"NA"
+"Subdistrict 1B","No. 2 Distillate",626558,592338,1944829,1917843,-14.6,-7.1,-1.4
+"Subdistrict 1B","No. 2 Fuel Oil",243621,166811,659150,689632,-38.2,-13.5,4.6
+"Subdistrict 1B","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Subdistrict 1B","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Subdistrict 1B","Low Sulfur","-","-","-","-","-","-","-"
+"Subdistrict 1B","High Sulfur","W","W","W","W","W","W","NA"
+"Subdistrict 1B","No. 4 Fuel","W","W","W","W","W","W","NA"
+"Subdistrict 1B","Aviation Gasoline",558,780,1768,1742,26.3,-6.3,-1.5
+"Subdistrict 1B","Kerosene-Type Jet Fu",170935,183753,289268,531850,-2.9,58.3,83.9
+"Subdistrict 1B","Kerosene",7023,"W","W","W",,"W","NA"
+"Subdistrict 1B","Propane",130025,96167,413820,356704,-33.2,-20.8,-13.8
+"Subdistrict 1B","Residual Fuel Oil",75341,75180,192434,218854,-9.9,-6.8,13.7
+"Subdistrict 1B","Sulfur Content  <= 1",47266,46528,133124,"W",-11.1,-8.2,"NA"
+"Subdistrict 1B","Sulfur Content  > 1",28075,28652,59310,"W",-7.8,-4.3,"NA"
+"Delaware","Motor Gasoline",38083,42728,108457,116928,1.3,0.2,7.8
+"Delaware","Regular",34006,38516,95831,104868,2.3,2.3,9.4
+"Delaware","Conventional","-","-","-","-","-","-","-"
+"Delaware","Reformulated",34006,38516,95831,104868,2.3,2.3,9.4
+"Delaware","Midgrade",192,202,807,564,-5.0,-35.0,-30.1
+"Delaware","Conventional","-","-","-","-","-","-","-"
+"Delaware","Reformulated",192,202,807,564,-5.0,-35.0,-30.1
+"Delaware","Premium",3885,4010,11819,11496,-6.8,-14.1,-2.7
+"Delaware","Conventional","-","-","-","-","-","-","-"
+"Delaware","Reformulated",3885,4010,11819,11496,-6.8,-14.1,-2.7
+"Delaware","Total Distillate","W","W","W","W","W","W","W"
+"Delaware","No. 1 Distillate","W","-","W","W","-","-","NA"
+"Delaware","No. 2 Distillate",16378,14746,37941,51410,-18.7,37.8,35.5
+"Delaware","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Delaware","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Delaware","Ultra Low Sulfur",14077,13441,"W","W",-13.8,33.1,"NA"
+"Delaware","Low Sulfur","-","-","-","-","-","-","-"
+"Delaware","High Sulfur","W","W","W","W","W","W","NA"
+"Delaware","No. 4 Fuel","-","-","-","-","-","-","-"
+"Delaware","Aviation Gasoline","W","W","W","W","W","W","NA"
+"Delaware","Kerosene-Type Jet Fu",332,390,893,999,6.1,15.4,11.9
+"Delaware","Kerosene","W",41,"W","W",,,"NA"
+"Delaware","Propane",6578,"W",23011,"W",,"W","NA"
+"Delaware","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Delaware","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Delaware","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"District of Columbia","Motor Gasoline",4874,5259,14868,14974,-2.5,-1.6,0.7
+"District of Columbia","Regular",3961,4326,12014,12219,-1.4,0.2,1.7
+"District of Columbia","Conventional","-","-","-","-","-","-","-"
+"District of Columbia","Reformulated",3961,4326,12014,12219,-1.4,0.2,1.7
+"District of Columbia","Midgrade",41,66,168,168,45.4,10.0,0.0
+"District of Columbia","Conventional","-","-","-","-","-","-","-"
+"District of Columbia","Reformulated",41,66,168,168,45.4,10.0,0.0
+"District of Columbia","Premium",872,867,2686,2587,-10.2,-10.0,-3.7
+"District of Columbia","Conventional","-","-","-","-","-","-","-"
+"District of Columbia","Reformulated",872,867,2686,2587,-10.2,-10.0,-3.7
+"District of Columbia","Total Distillate","W","W","W","W","W","W","W"
+"District of Columbia","No. 1 Distillate","-","-","-","-","-","-","-"
+"District of Columbia","No. 2 Distillate",1070,1166,"W","W",-1.6,17.9,"NA"
+"District of Columbia","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"District of Columbia","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"District of Columbia","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"District of Columbia","Low Sulfur","-","-","-","-","-","-","-"
+"District of Columbia","High Sulfur","-","-","-","-","-","-","-"
+"District of Columbia","No. 4 Fuel","-","-","-","-","-","-","-"
+"District of Columbia","Aviation Gasoline","-","-","-","-","-","-","-"
+"District of Columbia","Kerosene-Type Jet Fu","-","-","-","-","-","-","-"
+"District of Columbia","Kerosene","-","-","W","W","-","-","NA"
+"District of Columbia","Propane","-","W","-","W","W","W","NA"
+"District of Columbia","Residual Fuel Oil","-","-","-","-","-","-","-"
+"District of Columbia","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"District of Columbia","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Maryland","Motor Gasoline",137496,154257,394688,426651,1.3,6.5,8.1
+"Maryland","Regular",117877,133470,336803,367532,2.3,7.8,9.1
+"Maryland","Conventional",14387,17341,48766,46084,8.9,-8.0,-5.5
+"Maryland","Reformulated",103490,116129,288037,321448,1.4,10.6,11.6
+"Maryland","Midgrade",724,836,2426,2196,4.3,-10.7,-9.5
+"Maryland","Conventional",85,82,321,247,-12.9,-34.4,-23.1
+"Maryland","Reformulated",639,754,2105,1949,6.6,-7.0,-7.4
+"Maryland","Premium",18895,19951,55459,56923,-4.6,-0.7,2.6
+"Maryland","Conventional",1175,1371,3980,3730,5.4,8.1,-6.3
+"Maryland","Reformulated",17720,18580,51479,53193,-5.3,-1.3,3.3
+"Maryland","Total Distillate","W","W","W","W","W","W","W"
+"Maryland","No. 1 Distillate","-","-","W","W","-","-","NA"
+"Maryland","No. 2 Distillate",68176,70735,203910,208244,-6.3,2.4,2.1
+"Maryland","No. 2 Fuel Oil",17200,10128,45810,43858,-46.8,-13.2,-4.3
+"Maryland","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Maryland","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Maryland","Low Sulfur","-","-","-","-","-","-","-"
+"Maryland","High Sulfur","W","W","W","W","W","W","NA"
+"Maryland","No. 4 Fuel","-","-","-","-","-","-","-"
+"Maryland","Aviation Gasoline","W","W",320,"W","W","W","NA"
+"Maryland","Kerosene-Type Jet Fu",4566,5200,12717,14394,2.9,4.6,13.2
+"Maryland","Kerosene",480,238,"W","W",-55.2,-33.5,"NA"
+"Maryland","Propane",12447,9451,38080,34627,-31.4,-10.4,-9.1
+"Maryland","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Maryland","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Maryland","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"New Jersey","Motor Gasoline",256189,283702,730051,792031,0.0,5.1,8.5
+"New Jersey","Regular",218314,245025,615403,678405,1.4,7.7,10.2
+"New Jersey","Conventional","-","-","-","-","-","-","-"
+"New Jersey","Reformulated",218314,245025,615403,678405,1.4,7.7,10.2
+"New Jersey","Midgrade",2184,2284,7829,6640,-5.5,-19.9,-15.2
+"New Jersey","Conventional","-","-","-","-","-","-","-"
+"New Jersey","Reformulated",2184,2284,7829,6640,-5.5,-19.9,-15.2
+"New Jersey","Premium",35691,36393,106819,106986,-7.9,-8.0,0.2
+"New Jersey","Conventional","-","-","-","-","-","-","-"
+"New Jersey","Reformulated",35691,36393,106819,106986,-7.9,-8.0,0.2
+"New Jersey","Total Distillate","W","W","W","W","W","W","W"
+"New Jersey","No. 1 Distillate","W","W","W","W","W","W","NA"
+"New Jersey","No. 2 Distillate",121435,124232,401834,386517,-7.6,-8.0,-3.8
+"New Jersey","No. 2 Fuel Oil",33146,20470,98993,93615,-44.2,-39.0,-5.4
+"New Jersey","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"New Jersey","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"New Jersey","Low Sulfur","-","-","-","-","-","-","-"
+"New Jersey","High Sulfur","W","W","W","W","W","W","NA"
+"New Jersey","No. 4 Fuel","W","W","W","W","W","W","NA"
+"New Jersey","Aviation Gasoline",125,166,"W","W",19.9,23.9,"NA"
+"New Jersey","Kerosene-Type Jet Fu",37871,50787,82814,131620,21.1,27.2,58.9
+"New Jersey","Kerosene",91,"W","W","W",,"W","NA"
+"New Jersey","Propane",9103,7300,25228,25072,-27.6,-10.6,-0.6
+"New Jersey","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"New Jersey","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"New Jersey","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"New York","Motor Gasoline",381529,417396,1135498,1204483,-1.2,1.8,6.1
+"New York","Regular",319328,354988,933981,1013371,0.4,4.9,8.5
+"New York","Conventional",143766,158500,428668,453593,-0.4,2.4,5.8
+"New York","Reformulated",175562,196488,505313,559778,1.1,7.0,10.8
+"New York","Midgrade",4694,4761,22220,14189,-8.4,-39.6,-36.1
+"New York","Conventional",1115,975,7342,3244,-21.0,-61.4,-55.8
+"New York","Reformulated",3579,3786,14878,10945,-4.5,-29.4,-26.4
+"New York","Premium",57507,57647,179297,176923,-9.5,-9.3,-1.3
+"New York","Conventional",11641,10861,38800,34768,-15.7,-18.7,-10.4
+"New York","Reformulated",45866,46786,140497,142155,-7.9,-6.8,1.2
+"New York","Total Distillate","W","W","W","W","W","W","W"
+"New York","No. 1 Distillate",980,"W","W","W",,"W","NA"
+"New York","No. 2 Distillate",218454,201111,"W","W",-16.8,3.6,"NA"
+"New York","No. 2 Fuel Oil",125235,93082,332499,366791,-32.9,-2.2,10.3
+"New York","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"New York","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"New York","Low Sulfur","-","-","-","-","-","-","-"
+"New York","High Sulfur","W","W","W","W","W","W","NA"
+"New York","No. 4 Fuel","W","W","W","W","W","W","NA"
+"New York","Aviation Gasoline",135,233,520,476,55.9,-9.3,-8.5
+"New York","Kerosene-Type Jet Fu",70662,84241,152454,233150,7.7,53.2,52.9
+"New York","Kerosene","W",2219,12983,"W",,-16.3,"NA"
+"New York","Propane",50287,40776,159019,142494,-26.8,-12.2,-10.4
+"New York","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"New York","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"New York","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Pennsylvania","Motor Gasoline",247748,264588,788291,763635,-3.5,-9.4,-3.1
+"Pennsylvania","Regular",222800,240144,701794,688565,-2.6,-7.7,-1.9
+"Pennsylvania","Conventional",158911,169669,510333,491667,-3.6,-10.0,-3.7
+"Pennsylvania","Reformulated",63889,70475,191461,196898,-0.4,-1.6,2.8
+"Pennsylvania","Midgrade",983,796,5843,2745,-26.9,-63.4,-53.0
+"Pennsylvania","Conventional",786,590,4079,2143,-32.2,-61.4,-47.5
+"Pennsylvania","Reformulated",197,206,1764,602,-5.6,-68.3,-65.9
+"Pennsylvania","Premium",23965,23648,80654,72325,-10.9,-20.4,-10.3
+"Pennsylvania","Conventional",13536,13002,48787,40801,-13.2,-26.3,-16.4
+"Pennsylvania","Reformulated",10429,10646,31867,31524,-7.8,-11.7,-1.1
+"Pennsylvania","Total Distillate","W","W","W","W","W","W","W"
+"Pennsylvania","No. 1 Distillate",259,72,574,525,-74.9,-43.3,-8.5
+"Pennsylvania","No. 2 Distillate",201045,180348,681663,601878,-19.0,-20.7,-11.7
+"Pennsylvania","No. 2 Fuel Oil",65596,41768,178380,178708,-42.5,-19.4,0.2
+"Pennsylvania","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Pennsylvania","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Pennsylvania","Low Sulfur","-","-","-","-","-","-","-"
+"Pennsylvania","High Sulfur","W","W","W","W","W","W","NA"
+"Pennsylvania","No. 4 Fuel","-","-","-","-","-","-","-"
+"Pennsylvania","Aviation Gasoline",188,199,530,491,-4.4,-20.7,-7.4
+"Pennsylvania","Kerosene-Type Jet Fu",57504,43135,40390,151687,-32.2,173.0,275.6
+"Pennsylvania","Kerosene",1404,631,4474,3850,-59.4,-27.6,-13.9
+"Pennsylvania","Propane",51610,34092,168482,136149,-40.3,-32.5,-19.2
+"Pennsylvania","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Pennsylvania","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Pennsylvania","Sulfur Content  > 1","-","-","W","-","-","-","NA"
+"Subdistrict 1C","Motor Gasoline",1757481,1977945,5378832,5475028,1.7,-0.2,1.8
+"Subdistrict 1C","Regular",1536726,1739768,4631521,4790004,2.3,1.8,3.4
+"Subdistrict 1C","Conventional",1437073,1627679,4338400,4479861,2.3,1.7,3.3
+"Subdistrict 1C","Reformulated",99653,112089,293121,310143,1.6,2.4,5.8
+"Subdistrict 1C","Midgrade",23409,24787,97471,72762,-4.4,-31.5,-25.4
+"Subdistrict 1C","Conventional",22559,23913,93729,70060,-4.3,-31.2,-25.3
+"Subdistrict 1C","Reformulated",850,874,3742,2702,-7.1,-37.6,-27.8
+"Subdistrict 1C","Premium",197346,213390,649840,612262,-2.3,-10.0,-5.8
+"Subdistrict 1C","Conventional",179518,194515,594855,558060,-2.1,-10.2,-6.2
+"Subdistrict 1C","Reformulated",17828,18875,54985,54202,-4.4,-7.3,-1.4
+"Subdistrict 1C","Total Distillate","W","W","W","W","W","W","W"
+"Subdistrict 1C","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Subdistrict 1C","No. 2 Distillate",743038,828834,2186295,2319331,0.8,4.6,6.1
+"Subdistrict 1C","No. 2 Fuel Oil",6881,3480,14967,19677,-54.3,-23.7,31.5
+"Subdistrict 1C","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Subdistrict 1C","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Subdistrict 1C","Low Sulfur","-","-","-","-","-","-","-"
+"Subdistrict 1C","High Sulfur","W","W","W","W","W","W","NA"
+"Subdistrict 1C","No. 4 Fuel","-","-","-","-","-","-","-"
+"Subdistrict 1C","Aviation Gasoline",2598,3227,7769,8390,12.2,4.8,8.0
+"Subdistrict 1C","Kerosene-Type Jet Fu",148288,183245,381333,492242,11.6,16.6,29.1
+"Subdistrict 1C","Kerosene","W","W","W","W","W","W","NA"
+"Subdistrict 1C","Propane",126089,81838,385533,342871,-41.4,-20.0,-11.1
+"Subdistrict 1C","Residual Fuel Oil","W","W",11081,"W","W","W","NA"
+"Subdistrict 1C","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Subdistrict 1C","Sulfur Content  > 1",25351,27111,"W","W",-3.4,,"NA"
+"Florida","Motor Gasoline",596637,685792,1799261,1880380,3.8,3.7,4.5
+"Florida","Regular",515356,594698,1529558,1622736,4.2,5.6,6.1
+"Florida","Conventional",515356,594698,1529558,1622736,4.2,5.6,6.1
+"Florida","Reformulated","-","-","-","-","-","-","-"
+"Florida","Midgrade",5761,6463,26079,18355,1.3,-33.4,-29.6
+"Florida","Conventional",5761,6463,26079,18355,1.3,-33.4,-29.6
+"Florida","Reformulated","-","-","-","-","-","-","-"
+"Florida","Premium",75520,84631,243624,239289,1.2,-4.2,-1.8
+"Florida","Conventional",75520,84631,243624,239289,1.2,-4.2,-1.8
+"Florida","Reformulated","-","-","-","-","-","-","-"
+"Florida","Total Distillate","W","W","W","W","W","W","W"
+"Florida","No. 1 Distillate","-","-","-","-","-","-","-"
+"Florida","No. 2 Distillate","W",254651,"W","W",,,"NA"
+"Florida","No. 2 Fuel Oil","W","W","-","W","W","W","NA"
+"Florida","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Florida","Ultra Low Sulfur",214798,243127,602852,673088,2.2,10.5,11.7
+"Florida","Low Sulfur","-","-","-","-","-","-","-"
+"Florida","High Sulfur","W","W","W","W","W","W","NA"
+"Florida","No. 4 Fuel","-","-","-","-","-","-","-"
+"Florida","Aviation Gasoline",1471,2016,4635,4984,23.8,10.2,7.5
+"Florida","Kerosene-Type Jet Fu",103325,127440,265642,343701,11.4,16.6,29.4
+"Florida","Kerosene","W","-","W","W","-","-","NA"
+"Florida","Propane",19598,18207,59593,56397,-16.1,-7.2,-5.4
+"Florida","Residual Fuel Oil",26401,29090,"W",81069,-0.5,,"NA"
+"Florida","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Florida","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Georgia","Motor Gasoline",380295,427136,1150661,1188840,1.4,0.7,3.3
+"Georgia","Regular",326849,370466,978621,1023905,2.4,2.6,4.6
+"Georgia","Conventional",326849,370466,978621,1023905,2.4,2.6,4.6
+"Georgia","Reformulated","-","-","-","-","-","-","-"
+"Georgia","Midgrade",8083,9018,27711,25527,0.8,-12.4,-7.9
+"Georgia","Conventional",8083,9018,27711,25527,0.8,-12.4,-7.9
+"Georgia","Reformulated","-","-","-","-","-","-","-"
+"Georgia","Premium",45363,47652,144329,139408,-5.1,-9.8,-3.4
+"Georgia","Conventional",45363,47652,144329,139408,-5.1,-9.8,-3.4
+"Georgia","Reformulated","-","-","-","-","-","-","-"
+"Georgia","Total Distillate","W","W","W","W","W","W","W"
+"Georgia","No. 1 Distillate","W","-","W","W","-","-","NA"
+"Georgia","No. 2 Distillate",153276,174786,471054,484348,3.0,2.8,2.8
+"Georgia","No. 2 Fuel Oil","W","W","-","W","W","W","NA"
+"Georgia","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Georgia","Ultra Low Sulfur",152977,174606,"W",483562,3.1,,"NA"
+"Georgia","Low Sulfur","-","-","-","-","-","-","-"
+"Georgia","High Sulfur","W","W","W","W","W","W","NA"
+"Georgia","No. 4 Fuel","-","-","-","-","-","-","-"
+"Georgia","Aviation Gasoline",450,435,1177,1226,-12.7,-5.8,4.2
+"Georgia","Kerosene-Type Jet Fu",12775,16938,26257,42645,19.8,34.5,62.4
+"Georgia","Kerosene","W",37,"W","W",,-14.0,"NA"
+"Georgia","Propane",20819,12730,57478,58430,-44.8,-5.6,1.7
+"Georgia","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Georgia","Sulfur Content  <= 1","-","-","W","-","-","-","NA"
+"Georgia","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"North Carolina","Motor Gasoline",332379,365230,1013667,1018443,-0.8,-2.1,0.5
+"North Carolina","Regular",296451,326717,879667,908382,-0.5,0.8,3.3
+"North Carolina","Conventional",296451,326717,879667,908382,-0.5,0.8,3.3
+"North Carolina","Reformulated","-","-","-","-","-","-","-"
+"North Carolina","Midgrade",3945,4300,20963,12349,-1.5,-44.2,-41.1
+"North Carolina","Conventional",3945,4300,20963,12349,-1.5,-44.2,-41.1
+"North Carolina","Reformulated","-","-","-","-","-","-","-"
+"North Carolina","Premium",31983,34213,113037,97712,-3.4,-17.4,-13.6
+"North Carolina","Conventional",31983,34213,113037,97712,-3.4,-17.4,-13.6
+"North Carolina","Reformulated","-","-","-","-","-","-","-"
+"North Carolina","Total Distillate","W","W","W","W","W","W","W"
+"North Carolina","No. 1 Distillate","W","W","W","W","W","W","NA"
+"North Carolina","No. 2 Distillate",119625,131872,363350,367475,-0.4,0.2,1.1
+"North Carolina","No. 2 Fuel Oil",1243,648,"W",4096,-52.9,,"NA"
+"North Carolina","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"North Carolina","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"North Carolina","Low Sulfur","-","-","-","-","-","-","-"
+"North Carolina","High Sulfur","W","W","W","W","W","W","NA"
+"North Carolina","No. 4 Fuel","-","-","-","-","-","-","-"
+"North Carolina","Aviation Gasoline",271,304,873,893,1.3,-9.5,2.3
+"North Carolina","Kerosene-Type Jet Fu",8567,9712,25310,27256,2.4,-16.4,7.7
+"North Carolina","Kerosene","W","W","W","W","W","W","NA"
+"North Carolina","Propane",44969,25720,125469,118160,-48.3,-19.4,-5.8
+"North Carolina","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"North Carolina","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"North Carolina","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"South Carolina","Motor Gasoline",182907,205190,579722,565298,1.3,-4.1,-2.5
+"South Carolina","Regular",161906,183588,506914,501550,2.4,-1.9,-1.1
+"South Carolina","Conventional",161906,183588,506914,501550,2.4,-1.9,-1.1
+"South Carolina","Reformulated","-","-","-","-","-","-","-"
+"South Carolina","Midgrade",3863,3449,13952,11091,-19.4,-34.7,-20.5
+"South Carolina","Conventional",3863,3449,13952,11091,-19.4,-34.7,-20.5
+"South Carolina","Reformulated","-","-","-","-","-","-","-"
+"South Carolina","Premium",17138,18153,58856,52657,-4.3,-15.7,-10.5
+"South Carolina","Conventional",17138,18153,58856,52657,-4.3,-15.7,-10.5
+"South Carolina","Reformulated","-","-","-","-","-","-","-"
+"South Carolina","Total Distillate","W","W","W","W","W","W","W"
+"South Carolina","No. 1 Distillate","-","-","-","-","-","-","-"
+"South Carolina","No. 2 Distillate",89011,96170,266452,275954,-2.4,-0.9,3.6
+"South Carolina","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"South Carolina","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"South Carolina","Ultra Low Sulfur",88241,95793,"W","W",-1.9,,"NA"
+"South Carolina","Low Sulfur","-","-","-","-","-","-","-"
+"South Carolina","High Sulfur","W","W","W","W","W","W","NA"
+"South Carolina","No. 4 Fuel","-","-","-","-","-","-","-"
+"South Carolina","Aviation Gasoline",207,177,456,548,-22.8,6.0,20.2
+"South Carolina","Kerosene-Type Jet Fu",6463,8327,21692,20648,16.4,16.2,-4.8
+"South Carolina","Kerosene",276,79,982,819,-74.1,-22.5,-16.6
+"South Carolina","Propane",14508,10706,46715,43047,-33.3,-9.5,-7.9
+"South Carolina","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"South Carolina","Sulfur Content  <= 1","W","-","W","W","-","-","NA"
+"South Carolina","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Virginia","Motor Gasoline",218183,244991,685004,678761,1.4,-3.7,-0.9
+"Virginia","Regular",191866,217272,595876,598021,2.3,-2.0,0.4
+"Virginia","Conventional",92213,105183,302755,287878,3.0,-6.3,-4.9
+"Virginia","Reformulated",99653,112089,293121,310143,1.6,2.4,5.8
+"Virginia","Midgrade",1628,1423,7740,5001,-21.1,-50.2,-35.4
+"Virginia","Conventional",778,549,3998,2299,-36.3,-62.3,-42.5
+"Virginia","Reformulated",850,874,3742,2702,-7.1,-37.6,-27.8
+"Virginia","Premium",24689,26296,81388,75739,-3.8,-12.5,-6.9
+"Virginia","Conventional",6861,7421,26403,21537,-2.3,-23.5,-18.4
+"Virginia","Reformulated",17828,18875,54985,54202,-4.4,-7.3,-1.4
+"Virginia","Total Distillate","W","W","W","W","W","W","W"
+"Virginia","No. 1 Distillate","W","-","-","W","-","-","NA"
+"Virginia","No. 2 Distillate",121563,131089,366144,374323,-2.6,1.3,2.2
+"Virginia","No. 2 Fuel Oil",2578,995,8922,7297,-65.1,-67.0,-18.2
+"Virginia","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Virginia","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Virginia","Low Sulfur","-","-","-","-","-","-","-"
+"Virginia","High Sulfur","W","W","W","W","W","W","NA"
+"Virginia","No. 4 Fuel","-","-","-","-","-","-","-"
+"Virginia","Aviation Gasoline",174,255,"W",646,32.4,3.2,"NA"
+"Virginia","Kerosene-Type Jet Fu",16621,20112,40988,56295,9.3,25.7,37.3
+"Virginia","Kerosene","W",245,2874,"W",,-51.4,"NA"
+"Virginia","Propane",21461,12223,79590,55816,-48.6,-41.9,-29.9
+"Virginia","Residual Fuel Oil","-","W","W","W","W","W","NA"
+"Virginia","Sulfur Content  <= 1","-","W","W","W","W","W","NA"
+"Virginia","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"West Virginia","Motor Gasoline",47080,49606,150517,143306,-4.8,-11.0,-4.8
+"West Virginia","Regular",44298,47027,140885,135410,-4.1,-10.4,-3.9
+"West Virginia","Conventional",44298,47027,140885,135410,-4.1,-10.4,-3.9
+"West Virginia","Reformulated","-","-","-","-","-","-","-"
+"West Virginia","Midgrade",129,134,1026,439,-6.2,-61.6,-57.2
+"West Virginia","Conventional",129,134,1026,439,-6.2,-61.6,-57.2
+"West Virginia","Reformulated","-","-","-","-","-","-","-"
+"West Virginia","Premium",2653,2445,8606,7457,-16.8,-16.5,-13.4
+"West Virginia","Conventional",2653,2445,8606,7457,-16.8,-16.5,-13.4
+"West Virginia","Reformulated","-","-","-","-","-","-","-"
+"West Virginia","Total Distillate","W","W","W","W","W","W","W"
+"West Virginia","No. 1 Distillate","W","W","W","W","W","W","NA"
+"West Virginia","No. 2 Distillate","W",40266,"W","W",,,"NA"
+"West Virginia","No. 2 Fuel Oil",1546,728,"W",4184,-57.5,,"NA"
+"West Virginia","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"West Virginia","Ultra Low Sulfur","W",39538,"W","W",,,"NA"
+"West Virginia","Low Sulfur","-","-","-","-","-","-","-"
+"West Virginia","High Sulfur","-","-","-","-","-","-","-"
+"West Virginia","No. 4 Fuel","-","-","-","-","-","-","-"
+"West Virginia","Aviation Gasoline",25,40,"W",93,44.5,8.1,"NA"
+"West Virginia","Kerosene-Type Jet Fu",537,716,1444,1697,20.4,22.8,17.5
+"West Virginia","Kerosene","W","W","W","W","W","W","NA"
+"West Virginia","Propane",4734,2252,16688,11021,-57.0,-48.6,-34.0
+"West Virginia","Residual Fuel Oil","-","-","-","-","-","-","-"
+"West Virginia","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"West Virginia","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"PAD District 2","Motor Gasoline",2574879,2915550,7987060,8187543,2.3,0.2,2.5
+"PAD District 2","Regular",2353664,2687441,7244840,7497788,3.1,1.6,3.5
+"PAD District 2","Conventional",2019550,2310744,6233667,6432023,3.3,1.4,3.2
+"PAD District 2","Reformulated",334114,376697,1011173,1065765,1.8,3.0,5.4
+"PAD District 2","Midgrade",21868,18570,91551,65808,-23.3,-44.1,-28.1
+"PAD District 2","Conventional",18673,15396,78046,55535,-25.5,-45.7,-28.8
+"PAD District 2","Reformulated",3195,3174,13505,10273,-10.3,-34.8,-23.9
+"PAD District 2","Premium",199347,209539,650669,623947,-5.1,-10.1,-4.1
+"PAD District 2","Conventional",160006,166666,530018,498602,-5.9,-12.2,-5.9
+"PAD District 2","Reformulated",39341,42873,120651,125345,-1.6,-0.8,3.9
+"PAD District 2","Total Distillate","W","W","W","W","W","W","W"
+"PAD District 2","No. 1 Distillate",54395,18333,129656,146653,-69.6,72.6,13.1
+"PAD District 2","No. 2 Distillate",1346723,1610380,4232351,4330570,8.0,4.9,2.3
+"PAD District 2","No. 2 Fuel Oil",1633,2021,2269,5241,11.8,239.1,131.0
+"PAD District 2","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"PAD District 2","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"PAD District 2","Low Sulfur","W","W","W","W","W","W","NA"
+"PAD District 2","High Sulfur","-","-","-","-","-","-","-"
+"PAD District 2","No. 4 Fuel","-","-","-","-","-","-","-"
+"PAD District 2","Aviation Gasoline",1909,3194,6796,7091,51.1,4.3,4.3
+"PAD District 2","Kerosene-Type Jet Fu",283472,348166,761488,939413,10.9,17.7,23.4
+"PAD District 2","Kerosene",4143,1639,12472,11240,-64.3,-4.3,-9.9
+"PAD District 2","Propane",449879,318347,1274624,1299019,-36.1,16.6,1.9
+"PAD District 2","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"PAD District 2","Sulfur Content  <= 1","-","W","-","W","W","W","NA"
+"PAD District 2","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Illinois","Motor Gasoline",299549,336969,943240,954500,1.6,-0.9,1.2
+"Illinois","Regular",268414,303985,840579,855293,2.3,0.3,1.8
+"Illinois","Conventional",94224,110864,312111,304583,6.3,-3.3,-2.4
+"Illinois","Reformulated",174190,193121,528468,550710,0.1,2.5,4.2
+"Illinois","Midgrade",2492,2260,9769,7812,-18.1,-34.8,-20.0
+"Illinois","Conventional",1006,881,3645,2991,-20.9,-32.3,-17.9
+"Illinois","Reformulated",1486,1379,6124,4821,-16.2,-36.3,-21.3
+"Illinois","Premium",28643,30724,92892,91395,-3.1,-8.4,-1.6
+"Illinois","Conventional",4589,5075,20822,15714,-0.1,-33.6,-24.5
+"Illinois","Reformulated",24054,25649,72070,75681,-3.7,-1.0,5.0
+"Illinois","Total Distillate","W","W","W","W","W","W","W"
+"Illinois","No. 1 Distillate",2826,1008,8494,8085,-67.8,-9.1,-4.8
+"Illinois","No. 2 Distillate",163612,190426,483774,519919,5.1,8.8,7.5
+"Illinois","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"Illinois","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Illinois","Ultra Low Sulfur",163612,190426,483774,519919,5.1,8.8,7.5
+"Illinois","Low Sulfur","-","-","-","-","-","-","-"
+"Illinois","High Sulfur","-","-","-","-","-","-","-"
+"Illinois","No. 4 Fuel","-","-","-","-","-","-","-"
+"Illinois","Aviation Gasoline",136,273,606,618,81.3,-14.7,2.0
+"Illinois","Kerosene-Type Jet Fu",78219,90935,205809,259815,5.0,15.6,26.2
+"Illinois","Kerosene",339,110,1153,931,-70.7,-0.9,-19.3
+"Illinois","Propane",59483,43712,161923,166067,-33.6,23.1,2.6
+"Illinois","Residual Fuel Oil","W","-","W","W","-","-","NA"
+"Illinois","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Illinois","Sulfur Content  > 1","W","-","W","W","-","-","NA"
+"Indiana","Motor Gasoline",216044,250430,676260,694049,4.7,2.4,2.6
+"Indiana","Regular",200394,233488,621463,644312,5.2,4.0,3.7
+"Indiana","Conventional",169770,198041,537155,545877,5.4,2.0,1.6
+"Indiana","Reformulated",30624,35447,84308,98435,4.5,16.7,16.8
+"Indiana","Midgrade",1264,1020,7696,3661,-27.1,-63.3,-52.4
+"Indiana","Conventional",1042,906,6042,3058,-21.5,-58.2,-49.4
+"Indiana","Reformulated","NA",114,1654,"W",,-81.3,"NA"
+"Indiana","Premium",14386,15922,47101,46076,-0.0,-8.2,-2.2
+"Indiana","Conventional",11556,12450,38135,36389,-2.7,-11.4,-4.6
+"Indiana","Reformulated",2830,3472,8966,9687,10.8,5.8,8.0
+"Indiana","Total Distillate","W","W","W","W","W","W","W"
+"Indiana","No. 1 Distillate",557,233,2069,1597,-62.2,-21.0,-22.8
+"Indiana","No. 2 Distillate",117248,139652,361925,374730,7.6,9.2,3.5
+"Indiana","No. 2 Fuel Oil","W","W","-","W","W","W","NA"
+"Indiana","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Indiana","Ultra Low Sulfur","W","W",361925,"W","W","W","NA"
+"Indiana","Low Sulfur","-","-","-","-","-","-","-"
+"Indiana","High Sulfur","-","-","-","-","-","-","-"
+"Indiana","No. 4 Fuel","-","-","-","-","-","-","-"
+"Indiana","Aviation Gasoline",155,126,502,369,-26.6,-38.5,-26.5
+"Indiana","Kerosene-Type Jet Fu",23865,30523,65940,81248,15.5,18.6,23.2
+"Indiana","Kerosene",571,184,1900,1493,-70.9,-40.8,-21.4
+"Indiana","Propane",31937,21254,79810,87438,-39.9,23.2,9.6
+"Indiana","Residual Fuel Oil","W","-","W","W","-","-","NA"
+"Indiana","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Indiana","Sulfur Content  > 1","W","-","W","W","-","-","NA"
+"Iowa","Motor Gasoline",94314,102473,284723,295468,-1.9,-0.6,3.8
+"Iowa","Regular",86395,94382,255942,270003,-1.3,1.3,5.5
+"Iowa","Conventional",86395,94382,255942,270003,-1.3,1.3,5.5
+"Iowa","Reformulated","-","-","-","-","-","-","-"
+"Iowa","Midgrade",1135,1026,6183,4140,-18.4,-53.6,-33.0
+"Iowa","Conventional",1135,1026,6183,4140,-18.4,-53.6,-33.0
+"Iowa","Reformulated","-","-","-","-","-","-","-"
+"Iowa","Premium",6784,7065,22598,21325,-5.9,-8.5,-5.6
+"Iowa","Conventional",6784,7065,22598,21325,-5.9,-8.5,-5.6
+"Iowa","Reformulated","-","-","-","-","-","-","-"
+"Iowa","Total Distillate","W","W","W","W","W","W","W"
+"Iowa","No. 1 Distillate",4699,"W","W","W",,"W","NA"
+"Iowa","No. 2 Distillate",75728,96081,222735,244432,14.6,14.8,9.7
+"Iowa","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Iowa","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Iowa","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Iowa","Low Sulfur","-","-","-","-","-","-","-"
+"Iowa","High Sulfur","-","-","-","-","-","-","-"
+"Iowa","No. 4 Fuel","-","-","-","-","-","-","-"
+"Iowa","Aviation Gasoline",47,150,271,295,188.3,-12.3,8.9
+"Iowa","Kerosene-Type Jet Fu",2800,3395,6590,8841,9.5,23.9,34.2
+"Iowa","Kerosene",39,"W","W","W",,"W","NA"
+"Iowa","Propane",40410,25207,116693,117038,-43.7,29.2,0.3
+"Iowa","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Iowa","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Iowa","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Kansas","Motor Gasoline",111636,129434,361020,359678,4.7,-3.6,-0.4
+"Kansas","Regular",102129,118819,326162,329279,5.1,-1.9,1.0
+"Kansas","Conventional",102129,118819,326162,329279,5.1,-1.9,1.0
+"Kansas","Reformulated","-","-","-","-","-","-","-"
+"Kansas","Midgrade",1151,1130,4025,3500,-11.3,-21.0,-13.0
+"Kansas","Conventional",1151,1130,4025,3500,-11.3,-21.0,-13.0
+"Kansas","Reformulated","-","-","-","-","-","-","-"
+"Kansas","Premium",8356,9485,30833,26899,2.5,-18.7,-12.8
+"Kansas","Conventional",8356,9485,30833,26899,2.5,-18.7,-12.8
+"Kansas","Reformulated","-","-","-","-","-","-","-"
+"Kansas","Total Distillate","W","W","W","W","W","W","W"
+"Kansas","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Kansas","No. 2 Distillate",78162,88196,246244,243212,1.9,0.4,-1.2
+"Kansas","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"Kansas","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Kansas","Ultra Low Sulfur",78162,88196,246244,243212,1.9,0.4,-1.2
+"Kansas","Low Sulfur","-","-","-","-","-","-","-"
+"Kansas","High Sulfur","-","-","-","-","-","-","-"
+"Kansas","No. 4 Fuel","-","-","-","-","-","-","-"
+"Kansas","Aviation Gasoline",134,192,431,503,29.4,3.2,16.7
+"Kansas","Kerosene-Type Jet Fu",4421,5520,10329,13979,12.8,39.5,35.3
+"Kansas","Kerosene","W","W","W","W","W","W","NA"
+"Kansas","Propane",24926,20769,103471,91808,-24.7,23.3,-11.3
+"Kansas","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Kansas","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Kansas","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Kentucky","Motor Gasoline",149364,175439,449370,475179,6.1,2.3,5.7
+"Kentucky","Regular",139465,165019,415976,444451,6.9,3.9,6.8
+"Kentucky","Conventional",116934,138933,351491,371907,7.3,3.6,5.8
+"Kentucky","Reformulated",22531,26086,64485,72544,4.6,5.6,12.5
+"Kentucky","Midgrade",1291,898,5608,3565,-37.2,-58.1,-36.4
+"Kentucky","Conventional",922,"W",4338,"W",,"W","NA"
+"Kentucky","Reformulated",369,"W",1270,"W",,"W","NA"
+"Kentucky","Premium",8608,9522,27786,27163,-0.1,-9.6,-2.2
+"Kentucky","Conventional",6391,"W",22108,"W",,"W","NA"
+"Kentucky","Reformulated",2217,"W",5678,"W",,"W","NA"
+"Kentucky","Total Distillate","W","W","W","W","W","W","W"
+"Kentucky","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Kentucky","No. 2 Distillate",78451,91116,250379,247259,4.9,-2.0,-1.2
+"Kentucky","No. 2 Fuel Oil","W","W","-","W","W","W","NA"
+"Kentucky","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Kentucky","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Kentucky","Low Sulfur","-","W","W","W","W","W","NA"
+"Kentucky","High Sulfur","-","-","-","-","-","-","-"
+"Kentucky","No. 4 Fuel","-","-","-","-","-","-","-"
+"Kentucky","Aviation Gasoline",85,144,317,333,53.0,11.6,5.0
+"Kentucky","Kerosene-Type Jet Fu",44581,52693,133138,147942,6.8,5.8,11.1
+"Kentucky","Kerosene","W","W","W","W","W","W","NA"
+"Kentucky","Propane",15473,8039,44217,38770,-53.1,-9.2,-12.3
+"Kentucky","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Kentucky","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Kentucky","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Michigan","Motor Gasoline",316878,346244,974763,995350,-1.3,-0.3,2.1
+"Michigan","Regular",297379,327427,908880,936529,-0.6,0.9,3.0
+"Michigan","Conventional",297379,327427,908880,936529,-0.6,0.9,3.0
+"Michigan","Reformulated","-","-","-","-","-","-","-"
+"Michigan","Midgrade",510,381,5791,1424,-32.5,-81.3,-75.4
+"Michigan","Conventional",510,381,5791,1424,-32.5,-81.3,-75.4
+"Michigan","Reformulated","-","-","-","-","-","-","-"
+"Michigan","Premium",18989,18436,60092,57397,-12.3,-11.9,-4.5
+"Michigan","Conventional",18989,18436,60092,57397,-12.3,-11.9,-4.5
+"Michigan","Reformulated","-","-","-","-","-","-","-"
+"Michigan","Total Distillate","W","W","W","W","W","W","W"
+"Michigan","No. 1 Distillate","W","W",2665,"W","W","W","NA"
+"Michigan","No. 2 Distillate",87565,98528,277867,276545,1.6,-0.4,-0.5
+"Michigan","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Michigan","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Michigan","Ultra Low Sulfur","W",97296,274886,"W",,0.8,"NA"
+"Michigan","Low Sulfur","W","W","W","W","W","W","NA"
+"Michigan","High Sulfur","-","-","-","-","-","-","-"
+"Michigan","No. 4 Fuel","-","-","-","-","-","-","-"
+"Michigan","Aviation Gasoline",160,288,601,582,62.6,4.3,-3.2
+"Michigan","Kerosene-Type Jet Fu",16540,19957,45052,52510,9.0,16.0,16.6
+"Michigan","Kerosene","W","W",1242,"W","W","W","NA"
+"Michigan","Propane",48751,40927,120545,142923,-24.2,26.0,18.6
+"Michigan","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Michigan","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Michigan","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Minnesota","Motor Gasoline",161008,163262,481167,496342,-8.4,-1.5,3.2
+"Minnesota","Regular",142481,148301,428328,442117,-6.0,-0.0,3.2
+"Minnesota","Conventional",142481,148301,428328,442117,-6.0,-0.0,3.2
+"Minnesota","Reformulated","-","-","-","-","-","-","-"
+"Minnesota","Midgrade",3684,1318,7144,8794,-67.7,-46.5,23.1
+"Minnesota","Conventional",3684,1318,7144,8794,-67.7,-46.5,23.1
+"Minnesota","Reformulated","-","-","-","-","-","-","-"
+"Minnesota","Premium",14843,13643,45695,45431,-17.0,-8.2,-0.6
+"Minnesota","Conventional",14843,13643,45695,45431,-17.0,-8.2,-0.6
+"Minnesota","Reformulated","-","-","-","-","-","-","-"
+"Minnesota","Total Distillate","W","W","W","W","W","W","W"
+"Minnesota","No. 1 Distillate","W",4247,"W","W",,52.7,"NA"
+"Minnesota","No. 2 Distillate",57859,71882,214271,189459,12.2,-4.5,-11.6
+"Minnesota","No. 2 Fuel Oil","W",210,"W","W",,,"NA"
+"Minnesota","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Minnesota","Ultra Low Sulfur","W",71672,"W","W",,,"NA"
+"Minnesota","Low Sulfur","-","-","-","-","-","-","-"
+"Minnesota","High Sulfur","-","-","-","-","-","-","-"
+"Minnesota","No. 4 Fuel","-","-","-","-","-","-","-"
+"Minnesota","Aviation Gasoline",122,274,528,532,102.9,28.0,0.8
+"Minnesota","Kerosene-Type Jet Fu",8842,15505,20824,34232,58.4,81.7,64.4
+"Minnesota","Kerosene","W",86,"W","W",,32.3,"NA"
+"Minnesota","Propane",46463,30239,119091,136555,-41.2,40.6,14.7
+"Minnesota","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Minnesota","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Minnesota","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Missouri","Motor Gasoline",200589,241244,646505,661746,8.6,-0.8,2.4
+"Missouri","Regular",183141,221051,584555,604371,9.0,0.5,3.4
+"Missouri","Conventional",127401,154601,403435,420231,9.6,1.5,4.2
+"Missouri","Reformulated",55740,66450,181120,184140,7.7,-1.7,1.7
+"Missouri","Midgrade",2792,3168,9603,9308,2.5,-11.5,-3.1
+"Missouri","Conventional",1848,"W",6449,"W",,"W","NA"
+"Missouri","Reformulated",944,"W",3154,"W",,"W","NA"
+"Missouri","Premium",14656,17025,52347,48067,4.9,-13.9,-8.2
+"Missouri","Conventional",8987,"W",33049,"W",,"W","NA"
+"Missouri","Reformulated",5669,"W",19298,"W",,"W","NA"
+"Missouri","Total Distillate","W","W","W","W","W","W","W"
+"Missouri","No. 1 Distillate",585,"W","W","W",,"W","NA"
+"Missouri","No. 2 Distillate",116189,140900,369742,381000,9.5,3.5,3.0
+"Missouri","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Missouri","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Missouri","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Missouri","Low Sulfur","-","-","-","-","-","-","-"
+"Missouri","High Sulfur","-","-","-","-","-","-","-"
+"Missouri","No. 4 Fuel","-","-","-","-","-","-","-"
+"Missouri","Aviation Gasoline",173,269,524,598,40.4,10.7,14.1
+"Missouri","Kerosene-Type Jet Fu",10060,13605,22912,35265,22.2,40.9,53.9
+"Missouri","Kerosene",22,"W","W","W",,"W","NA"
+"Missouri","Propane",39867,29048,117611,113241,-34.2,21.0,-3.7
+"Missouri","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Missouri","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Missouri","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Nebraska","Motor Gasoline",61052,66832,185058,189194,-1.1,-0.1,2.2
+"Nebraska","Regular",54946,60778,164734,170720,-0.1,1.6,3.6
+"Nebraska","Conventional",54946,60778,164734,170720,-0.1,1.6,3.6
+"Nebraska","Reformulated","-","-","-","-","-","-","-"
+"Nebraska","Midgrade",572,640,2366,1833,1.1,-27.4,-22.5
+"Nebraska","Conventional",572,640,2366,1833,1.1,-27.4,-22.5
+"Nebraska","Reformulated","-","-","-","-","-","-","-"
+"Nebraska","Premium",5534,5414,17958,16641,-11.6,-12.7,-7.3
+"Nebraska","Conventional",5534,5414,17958,16641,-11.6,-12.7,-7.3
+"Nebraska","Reformulated","-","-","-","-","-","-","-"
+"Nebraska","Total Distillate","W","W","W","W","W","W","W"
+"Nebraska","No. 1 Distillate",3702,996,11625,9990,-75.7,93.4,-14.1
+"Nebraska","No. 2 Distillate",54740,71616,174550,180801,18.2,6.8,3.6
+"Nebraska","No. 2 Fuel Oil","-","W","-","W","W","W","NA"
+"Nebraska","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Nebraska","Ultra Low Sulfur",54740,"W",174550,"W",,"W","NA"
+"Nebraska","Low Sulfur","-","-","-","-","-","-","-"
+"Nebraska","High Sulfur","-","-","-","-","-","-","-"
+"Nebraska","No. 4 Fuel","-","-","-","-","-","-","-"
+"Nebraska","Aviation Gasoline",44,274,240,435,462.5,144.6,81.3
+"Nebraska","Kerosene-Type Jet Fu",3892,4362,8518,12263,1.2,32.7,44.0
+"Nebraska","Kerosene","-","-","-","-","-","-","-"
+"Nebraska","Propane",8635,7273,31273,28861,-23.9,17.3,-7.7
+"Nebraska","Residual Fuel Oil","-","W","W","W","W","W","NA"
+"Nebraska","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Nebraska","Sulfur Content  > 1","-","W","W","W","W","W","NA"
+"North Dakota","Motor Gasoline",28563,39628,80445,94878,25.3,39.8,17.9
+"North Dakota","Regular",24423,35618,69560,83101,31.7,45.0,19.5
+"North Dakota","Conventional",24423,35618,69560,83101,31.7,45.0,19.5
+"North Dakota","Reformulated","-","-","-","-","-","-","-"
+"North Dakota","Midgrade",415,492,1624,1392,7.1,-12.1,-14.3
+"North Dakota","Conventional",415,492,1624,1392,7.1,-12.1,-14.3
+"North Dakota","Reformulated","-","-","-","-","-","-","-"
+"North Dakota","Premium",3725,3518,9261,10385,-14.7,9.4,12.1
+"North Dakota","Conventional",3725,3518,9261,10385,-14.7,9.4,12.1
+"North Dakota","Reformulated","-","-","-","-","-","-","-"
+"North Dakota","Total Distillate","W","W","W","W","W","W","W"
+"North Dakota","No. 1 Distillate","W","W","W","W","W","W","NA"
+"North Dakota","No. 2 Distillate",31071,44075,114896,106571,28.1,3.1,-7.2
+"North Dakota","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"North Dakota","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"North Dakota","Ultra Low Sulfur",31071,44075,114896,106571,28.1,3.1,-7.2
+"North Dakota","Low Sulfur","-","-","-","-","-","-","-"
+"North Dakota","High Sulfur","-","-","-","-","-","-","-"
+"North Dakota","No. 4 Fuel","-","-","-","-","-","-","-"
+"North Dakota","Aviation Gasoline","W","W","W","W","W","W","NA"
+"North Dakota","Kerosene-Type Jet Fu",3475,3691,8518,9507,-4.1,8.2,11.6
+"North Dakota","Kerosene","W","W","W","W","W","W","NA"
+"North Dakota","Propane",17562,11122,57356,50176,-42.8,-27.6,-12.5
+"North Dakota","Residual Fuel Oil","-","-","-","-","-","-","-"
+"North Dakota","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"North Dakota","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Ohio","Motor Gasoline",345990,389817,1070961,1095720,1.8,-0.4,2.3
+"Ohio","Regular",322040,365586,992152,1022154,2.5,0.8,3.0
+"Ohio","Conventional",322040,365586,992152,1022154,2.5,0.8,3.0
+"Ohio","Reformulated","-","-","-","-","-","-","-"
+"Ohio","Midgrade",1254,826,10063,3450,-40.5,-77.6,-65.7
+"Ohio","Conventional",1254,826,10063,3450,-40.5,-77.6,-65.7
+"Ohio","Reformulated","-","-","-","-","-","-","-"
+"Ohio","Premium",22696,23405,68746,70116,-6.9,-5.6,2.0
+"Ohio","Conventional",22696,23405,68746,70116,-6.9,-5.6,2.0
+"Ohio","Reformulated","-","-","-","-","-","-","-"
+"Ohio","Total Distillate","W","W","W","W","W","W","W"
+"Ohio","No. 1 Distillate",737,190,"W",1970,-76.7,,"NA"
+"Ohio","No. 2 Distillate",165732,185895,514022,517707,1.3,0.6,0.7
+"Ohio","No. 2 Fuel Oil","W","W","-","W","W","W","NA"
+"Ohio","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Ohio","Ultra Low Sulfur",165175,185323,514022,"W",1.3,0.3,"NA"
+"Ohio","Low Sulfur","W","W","-","W","W","W","NA"
+"Ohio","High Sulfur","-","-","-","-","-","-","-"
+"Ohio","No. 4 Fuel","-","-","-","-","-","-","-"
+"Ohio","Aviation Gasoline",204,307,682,634,35.9,-12.5,-7.0
+"Ohio","Kerosene-Type Jet Fu",22364,27203,54503,74071,9.9,23.5,35.9
+"Ohio","Kerosene",1172,403,"W",2809,-68.9,,"NA"
+"Ohio","Propane",40355,27255,111882,107882,-39.0,-8.9,-3.6
+"Ohio","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Ohio","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Ohio","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Oklahoma","Motor Gasoline",134137,167047,451852,453062,12.5,-3.0,0.3
+"Oklahoma","Regular",120217,149908,399837,405802,12.6,-1.4,1.5
+"Oklahoma","Conventional",120217,149908,399837,405802,12.6,-1.4,1.5
+"Oklahoma","Reformulated","-","-","-","-","-","-","-"
+"Oklahoma","Midgrade",1531,1672,5392,4978,-1.4,-18.6,-7.7
+"Oklahoma","Conventional",1531,1672,5392,4978,-1.4,-18.6,-7.7
+"Oklahoma","Reformulated","-","-","-","-","-","-","-"
+"Oklahoma","Premium",12389,15467,46623,42282,12.8,-14.5,-9.3
+"Oklahoma","Conventional",12389,15467,46623,42282,12.8,-14.5,-9.3
+"Oklahoma","Reformulated","-","-","-","-","-","-","-"
+"Oklahoma","Total Distillate","W","W","W","W","W","W","W"
+"Oklahoma","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Oklahoma","No. 2 Distillate",110123,139706,340708,373440,14.6,16.0,9.6
+"Oklahoma","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Oklahoma","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Oklahoma","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Oklahoma","Low Sulfur","-","-","-","-","-","-","-"
+"Oklahoma","High Sulfur","-","-","-","-","-","-","-"
+"Oklahoma","No. 4 Fuel","-","-","-","-","-","-","-"
+"Oklahoma","Aviation Gasoline",168,166,433,510,-10.8,-8.3,17.8
+"Oklahoma","Kerosene-Type Jet Fu",20235,27218,38785,65654,21.5,58.0,69.3
+"Oklahoma","Kerosene","W","W","W","W","W","W","NA"
+"Oklahoma","Propane",11414,8703,35241,32574,-31.1,16.4,-7.6
+"Oklahoma","Residual Fuel Oil","-","NA","-","W","NA","NA","NA"
+"Oklahoma","Sulfur Content  <= 1","-","W","-","W","W","W","NA"
+"Oklahoma","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"South Dakota","Motor Gasoline",32312,36229,96011,101347,1.3,4.9,5.6
+"South Dakota","Regular",29045,33133,84747,91820,3.0,9.0,8.3
+"South Dakota","Conventional",29045,33133,84747,91820,3.0,9.0,8.3
+"South Dakota","Reformulated","-","-","-","-","-","-","-"
+"South Dakota","Midgrade",511,451,1461,1461,-20.3,-9.8,0.0
+"South Dakota","Conventional",511,451,1461,1461,-20.3,-9.8,0.0
+"South Dakota","Reformulated","-","-","-","-","-","-","-"
+"South Dakota","Premium",2756,2645,9803,8066,-13.3,-27.0,-17.7
+"South Dakota","Conventional",2756,2645,9803,8066,-13.3,-27.0,-17.7
+"South Dakota","Reformulated","-","-","-","-","-","-","-"
+"South Dakota","Total Distillate","W","W","W","W","W","W","W"
+"South Dakota","No. 1 Distillate","W","W",9365,"W","W","W","NA"
+"South Dakota","No. 2 Distillate",18815,29530,67168,66763,41.8,18.5,-0.6
+"South Dakota","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"South Dakota","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"South Dakota","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"South Dakota","Low Sulfur","-","-","-","-","-","-","-"
+"South Dakota","High Sulfur","-","-","-","-","-","-","-"
+"South Dakota","No. 4 Fuel","-","-","-","-","-","-","-"
+"South Dakota","Aviation Gasoline","W","W","W","W","W","W","NA"
+"South Dakota","Kerosene-Type Jet Fu",1248,1749,5785,4234,26.6,-13.4,-26.8
+"South Dakota","Kerosene","W","W","-","W","W","W","NA"
+"South Dakota","Propane",6597,4733,16773,19727,-35.2,19.7,17.6
+"South Dakota","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"South Dakota","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"South Dakota","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Tennessee","Motor Gasoline",248927,283307,769054,777784,2.8,-1.3,1.1
+"Tennessee","Regular",223920,256614,684281,699919,3.5,0.1,2.3
+"Tennessee","Conventional",223920,256614,684281,699919,3.5,0.1,2.3
+"Tennessee","Reformulated","-","-","-","-","-","-","-"
+"Tennessee","Midgrade",2366,2324,10859,7722,-11.3,-42.7,-28.9
+"Tennessee","Conventional",2366,2324,10859,7722,-11.3,-42.7,-28.9
+"Tennessee","Reformulated","-","-","-","-","-","-","-"
+"Tennessee","Premium",22641,24369,73914,70143,-2.8,-8.2,-5.1
+"Tennessee","Conventional",22641,24369,73914,70143,-2.8,-8.2,-5.1
+"Tennessee","Reformulated","-","-","-","-","-","-","-"
+"Tennessee","Total Distillate","W","W","W","W","W","W","W"
+"Tennessee","No. 1 Distillate","W","-","W","W","-","-","NA"
+"Tennessee","No. 2 Distillate",114883,132657,350316,364106,4.3,2.3,3.9
+"Tennessee","No. 2 Fuel Oil","W","W","-","W","W","W","NA"
+"Tennessee","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Tennessee","Ultra Low Sulfur","W","W",350316,"W","W","W","NA"
+"Tennessee","Low Sulfur","-","-","-","-","-","-","-"
+"Tennessee","High Sulfur","-","-","-","-","-","-","-"
+"Tennessee","No. 4 Fuel","-","-","-","-","-","-","-"
+"Tennessee","Aviation Gasoline",252,321,763,794,15.1,11.5,4.1
+"Tennessee","Kerosene-Type Jet Fu",38323,45603,122873,123937,7.5,-2.4,0.9
+"Tennessee","Kerosene","W",102,"W","W",,,"NA"
+"Tennessee","Propane",10909,6499,38201,28689,-46.2,-24.0,-24.9
+"Tennessee","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Tennessee","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Tennessee","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Wisconsin","Motor Gasoline",174516,187195,516631,543246,-3.1,3.4,5.2
+"Wisconsin","Regular",159275,173332,467644,497917,-1.7,4.7,6.5
+"Wisconsin","Conventional",108246,117739,314852,337981,-1.8,6.1,7.3
+"Wisconsin","Reformulated",51029,55593,152792,159936,-1.6,1.9,4.7
+"Wisconsin","Midgrade",900,964,3967,2768,-3.3,-30.4,-30.2
+"Wisconsin","Conventional",726,724,2664,2159,-9.9,-20.7,-19.0
+"Wisconsin","Reformulated",174,240,1303,609,24.6,-49.3,-53.3
+"Wisconsin","Premium",14341,12899,45020,42561,-18.8,-9.2,-5.5
+"Wisconsin","Conventional",9770,8183,30381,28445,-24.3,-12.0,-6.4
+"Wisconsin","Reformulated",4571,4716,14639,14116,-6.8,-3.9,-3.6
+"Wisconsin","Total Distillate","W","W","W","W","W","W","W"
+"Wisconsin","No. 1 Distillate",4384,867,11453,11443,-82.1,34.8,-0.1
+"Wisconsin","No. 2 Distillate",76545,90120,243754,244626,6.3,2.3,0.4
+"Wisconsin","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Wisconsin","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Wisconsin","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Wisconsin","Low Sulfur","-","-","-","-","-","-","-"
+"Wisconsin","High Sulfur","-","-","-","-","-","-","-"
+"Wisconsin","No. 4 Fuel","-","-","-","-","-","-","-"
+"Wisconsin","Aviation Gasoline",109,185,361,408,53.3,11.4,13.0
+"Wisconsin","Kerosene-Type Jet Fu",4607,6207,11912,15915,21.7,28.3,33.6
+"Wisconsin","Kerosene",150,88,187,438,-47.0,340.0,134.2
+"Wisconsin","Propane",47097,33567,120537,137270,-35.6,30.7,13.9
+"Wisconsin","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Wisconsin","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Wisconsin","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"PAD District 3","Motor Gasoline",1714010,1977240,5228128,5487570,4.2,0.4,5.0
+"PAD District 3","Regular",1527680,1776540,4618317,4898713,5.0,1.9,6.1
+"PAD District 3","Conventional",1099596,1267421,3327498,3496960,4.1,1.4,5.1
+"PAD District 3","Reformulated",428084,509119,1290819,1401753,7.4,3.2,8.6
+"PAD District 3","Midgrade",17577,17391,62981,54211,-10.6,-26.4,-13.9
+"PAD District 3","Conventional",11384,10491,42284,34028,-16.8,-33.7,-19.5
+"PAD District 3","Reformulated",6193,6900,20697,20183,0.6,-11.8,-2.5
+"PAD District 3","Premium",168753,183309,546830,534646,-1.9,-9.5,-2.2
+"PAD District 3","Conventional",103621,112015,336437,325664,-2.4,-9.4,-3.2
+"PAD District 3","Reformulated",65132,71294,210393,208982,-1.1,-9.7,-0.7
+"PAD District 3","Total Distillate","W","W","W","W","W","W","W"
+"PAD District 3","No. 1 Distillate",63,38,"W",151,-45.5,-37.7,"NA"
+"PAD District 3","No. 2 Distillate",1186061,1354211,3372890,3764212,3.1,7.7,11.6
+"PAD District 3","No. 2 Fuel Oil",39406,24708,"W",87462,-43.4,169.5,"NA"
+"PAD District 3","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"PAD District 3","Ultra Low Sulfur",1132628,1313335,3262696,3626301,4.7,6.5,11.1
+"PAD District 3","Low Sulfur","-","-","-","-","-","-","-"
+"PAD District 3","High Sulfur",14027,16168,35883,50449,4.1,5.9,40.6
+"PAD District 3","No. 4 Fuel","-","-","-","-","-","-","-"
+"PAD District 3","Aviation Gasoline",1839,2162,5013,6139,6.2,8.8,22.5
+"PAD District 3","Kerosene-Type Jet Fu",378154,412441,995610,1231812,-1.5,7.9,23.7
+"PAD District 3","Kerosene",17190,17619,"W",54640,-7.4,201.5,"NA"
+"PAD District 3","Propane",329965,337642,851961,1033962,-7.6,35.9,21.4
+"PAD District 3","Residual Fuel Oil","W",67877,"W","W",,,"NA"
+"PAD District 3","Sulfur Content  <= 1",29903,"W",132999,"W",,"W","NA"
+"PAD District 3","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Alabama","Motor Gasoline",191332,216821,571309,598827,2.4,2.4,4.8
+"Alabama","Regular",173484,197901,514289,544022,3.0,3.7,5.8
+"Alabama","Conventional",173484,197901,514289,544022,3.0,3.7,5.8
+"Alabama","Reformulated","-","-","-","-","-","-","-"
+"Alabama","Midgrade",1816,1788,6273,5354,-11.1,-25.2,-14.7
+"Alabama","Conventional",1816,1788,6273,5354,-11.1,-25.2,-14.7
+"Alabama","Reformulated","-","-","-","-","-","-","-"
+"Alabama","Premium",16032,17132,50747,49451,-3.5,-7.6,-2.6
+"Alabama","Conventional",16032,17132,50747,49451,-3.5,-7.6,-2.6
+"Alabama","Reformulated","-","-","-","-","-","-","-"
+"Alabama","Total Distillate","W","W","W","W","W","W","W"
+"Alabama","No. 1 Distillate","-","-","-","-","-","-","-"
+"Alabama","No. 2 Distillate","W","W","W","W","W","W","NA"
+"Alabama","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"Alabama","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Alabama","Ultra Low Sulfur","W",98032,"W","W",,0.8,"NA"
+"Alabama","Low Sulfur","-","-","-","-","-","-","-"
+"Alabama","High Sulfur","-","W","W","W","W","W","NA"
+"Alabama","No. 4 Fuel","-","-","-","-","-","-","-"
+"Alabama","Aviation Gasoline",208,236,590,637,2.5,14.6,8.0
+"Alabama","Kerosene-Type Jet Fu",5433,6596,12344,17486,9.7,22.7,41.7
+"Alabama","Kerosene","W","W","W","W","W","W","NA"
+"Alabama","Propane",11709,7321,35160,31461,-43.5,-8.3,-10.5
+"Alabama","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Alabama","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Alabama","Sulfur Content  > 1","-","-","W","-","-","-","NA"
+"Arkansas","Motor Gasoline",96498,107387,322238,310606,0.5,-11.2,-3.6
+"Arkansas","Regular",87867,98704,291195,283780,1.5,-9.7,-2.5
+"Arkansas","Conventional",87867,98704,291195,283780,1.5,-9.7,-2.5
+"Arkansas","Reformulated","-","-","-","-","-","-","-"
+"Arkansas","Midgrade",901,859,3296,2750,-13.9,-33.0,-16.6
+"Arkansas","Conventional",901,859,3296,2750,-13.9,-33.0,-16.6
+"Arkansas","Reformulated","-","-","-","-","-","-","-"
+"Arkansas","Premium",7730,7824,27747,24076,-8.6,-24.6,-13.2
+"Arkansas","Conventional",7730,7824,27747,24076,-8.6,-24.6,-13.2
+"Arkansas","Reformulated","-","-","-","-","-","-","-"
+"Arkansas","Total Distillate","W","W","W","W","W","W","W"
+"Arkansas","No. 1 Distillate","W","-","W","W","-","-","NA"
+"Arkansas","No. 2 Distillate","W",80448,"W","W",,,"NA"
+"Arkansas","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Arkansas","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Arkansas","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Arkansas","Low Sulfur","-","-","-","-","-","-","-"
+"Arkansas","High Sulfur","-","-","-","-","-","-","-"
+"Arkansas","No. 4 Fuel","-","-","-","-","-","-","-"
+"Arkansas","Aviation Gasoline",173,130,371,409,-32.1,-13.9,10.2
+"Arkansas","Kerosene-Type Jet Fu",3480,4909,9599,11731,27.4,19.2,22.2
+"Arkansas","Kerosene","-","-","W","-","-","-","NA"
+"Arkansas","Propane",9233,6562,29212,25149,-35.8,-4.4,-13.9
+"Arkansas","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Arkansas","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Arkansas","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Louisiana","Motor Gasoline",197985,219795,595785,614248,0.3,-2.9,3.1
+"Louisiana","Regular",180785,202610,538968,562123,1.2,-1.1,4.3
+"Louisiana","Conventional",180785,202610,538968,562123,1.2,-1.1,4.3
+"Louisiana","Reformulated","-","-","-","-","-","-","-"
+"Louisiana","Midgrade",1171,1035,3960,3430,-20.2,-30.6,-13.4
+"Louisiana","Conventional",1171,1035,3960,3430,-20.2,-30.6,-13.4
+"Louisiana","Reformulated","-","-","-","-","-","-","-"
+"Louisiana","Premium",16029,16150,52857,48695,-9.0,-19.6,-7.9
+"Louisiana","Conventional",16029,16150,52857,48695,-9.0,-19.6,-7.9
+"Louisiana","Reformulated","-","-","-","-","-","-","-"
+"Louisiana","Total Distillate","W","W","W","W","W","W","W"
+"Louisiana","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Louisiana","No. 2 Distillate",160769,163907,463161,493930,-7.9,-5.6,6.6
+"Louisiana","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Louisiana","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Louisiana","Ultra Low Sulfur",148021,"W","W","W",,"W","NA"
+"Louisiana","Low Sulfur","-","-","-","-","-","-","-"
+"Louisiana","High Sulfur","W","W","W","W","W","W","NA"
+"Louisiana","No. 4 Fuel","-","-","-","-","-","-","-"
+"Louisiana","Aviation Gasoline",134,229,390,525,54.4,30.1,34.6
+"Louisiana","Kerosene-Type Jet Fu",81997,85582,153235,250547,-5.7,18.2,63.5
+"Louisiana","Kerosene","W","W","W","W","W","W","NA"
+"Louisiana","Propane",22150,28702,85573,80526,17.0,4.9,-5.9
+"Louisiana","Residual Fuel Oil",11632,11585,53854,37670,-10.0,-45.4,-30.1
+"Louisiana","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Louisiana","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Mississippi","Motor Gasoline",112084,121814,345088,342272,-1.8,-4.0,-0.8
+"Mississippi","Regular",102621,112053,313492,313198,-1.4,-2.7,-0.1
+"Mississippi","Conventional",102621,112053,313492,313198,-1.4,-2.7,-0.1
+"Mississippi","Reformulated","-","-","-","-","-","-","-"
+"Mississippi","Midgrade",1173,1079,3886,3488,-16.9,-25.8,-10.2
+"Mississippi","Conventional",1173,1079,3886,3488,-16.9,-25.8,-10.2
+"Mississippi","Reformulated","-","-","-","-","-","-","-"
+"Mississippi","Premium",8290,8682,27710,25586,-5.4,-15.2,-7.7
+"Mississippi","Conventional",8290,8682,27710,25586,-5.4,-15.2,-7.7
+"Mississippi","Reformulated","-","-","-","-","-","-","-"
+"Mississippi","Total Distillate","W","W","W","W","W","W","W"
+"Mississippi","No. 1 Distillate","-","-","-","-","-","-","-"
+"Mississippi","No. 2 Distillate","W","W","W","W","W","W","NA"
+"Mississippi","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Mississippi","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Mississippi","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Mississippi","Low Sulfur","-","-","-","-","-","-","-"
+"Mississippi","High Sulfur","-","-","-","-","-","-","-"
+"Mississippi","No. 4 Fuel","-","-","-","-","-","-","-"
+"Mississippi","Aviation Gasoline",127,159,255,423,13.1,43.2,65.9
+"Mississippi","Kerosene-Type Jet Fu",19233,15996,87829,61956,-24.9,-61.7,-29.5
+"Mississippi","Kerosene","W","W","W","W","W","W","NA"
+"Mississippi","Propane",8949,5641,43997,25823,-43.1,-46.4,-41.3
+"Mississippi","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Mississippi","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Mississippi","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"New Mexico","Motor Gasoline",70228,82385,206578,224984,6.0,6.2,8.9
+"New Mexico","Regular",60041,71367,175054,193743,7.4,7.9,10.7
+"New Mexico","Conventional",60041,71367,175054,193743,7.4,7.9,10.7
+"New Mexico","Reformulated","-","-","-","-","-","-","-"
+"New Mexico","Midgrade",827,684,5798,2406,-25.3,-65.8,-58.5
+"New Mexico","Conventional",827,684,5798,2406,-25.3,-65.8,-58.5
+"New Mexico","Reformulated","-","-","-","-","-","-","-"
+"New Mexico","Premium",9360,10334,25726,28835,-0.3,9.7,12.1
+"New Mexico","Conventional",9360,10334,25726,28835,-0.3,9.7,12.1
+"New Mexico","Reformulated","-","-","-","-","-","-","-"
+"New Mexico","Total Distillate","W","W","W","W","W","W","W"
+"New Mexico","No. 1 Distillate","W","W","W","W","W","W","NA"
+"New Mexico","No. 2 Distillate","W","W","W","W","W","W","NA"
+"New Mexico","No. 2 Fuel Oil","W","W","-","W","W","W","NA"
+"New Mexico","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"New Mexico","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"New Mexico","Low Sulfur","-","-","-","-","-","-","-"
+"New Mexico","High Sulfur","-","-","-","-","-","-","-"
+"New Mexico","No. 4 Fuel","-","-","-","-","-","-","-"
+"New Mexico","Aviation Gasoline",105,94,326,284,-19.1,-22.3,-12.9
+"New Mexico","Kerosene-Type Jet Fu",3057,4649,8255,10972,37.4,45.0,32.9
+"New Mexico","Kerosene","-","-","-","-","-","-","-"
+"New Mexico","Propane",8388,7253,22270,23883,-21.9,11.8,7.2
+"New Mexico","Residual Fuel Oil","-","-","-","-","-","-","-"
+"New Mexico","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"New Mexico","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Texas","Motor Gasoline",1045883,1229038,3187130,3396633,6.1,1.9,6.6
+"Texas","Regular",922882,1093905,2785319,3001847,7.1,3.5,7.8
+"Texas","Conventional",494798,584786,1494500,1600094,6.7,3.7,7.1
+"Texas","Reformulated",428084,509119,1290819,1401753,7.4,3.2,8.6
+"Texas","Midgrade",11689,11946,39768,36783,-7.7,-20.5,-7.5
+"Texas","Conventional",5496,5046,19071,16600,-17.1,-29.9,-13.0
+"Texas","Reformulated",6193,6900,20697,20183,0.6,-11.8,-2.5
+"Texas","Premium",111312,123187,362043,358003,-0.0,-8.0,-1.1
+"Texas","Conventional",46180,51893,151650,149021,1.5,-5.6,-1.7
+"Texas","Reformulated",65132,71294,210393,208982,-1.1,-9.7,-0.7
+"Texas","Total Distillate","W","W","W","W","W","W","W"
+"Texas","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Texas","No. 2 Distillate",731421,862496,2024169,2350201,6.5,14.5,16.1
+"Texas","No. 2 Fuel Oil",29149,21826,"W",71755,-32.4,,"NA"
+"Texas","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Texas","Ultra Low Sulfur","W",827681,"W","W",,,"NA"
+"Texas","Low Sulfur","-","-","-","-","-","-","-"
+"Texas","High Sulfur","W",12989,"W","W",,,"NA"
+"Texas","No. 4 Fuel","-","-","-","-","-","-","-"
+"Texas","Aviation Gasoline",1092,1314,3081,3861,8.7,7.4,25.3
+"Texas","Kerosene-Type Jet Fu",264954,294709,724348,879120,0.5,15.4,21.4
+"Texas","Kerosene","W","W","W","W","W","W","NA"
+"Texas","Propane",269536,282163,635749,847120,-5.4,49.1,33.2
+"Texas","Residual Fuel Oil",51202,54562,144036,169289,-3.8,-2.5,17.5
+"Texas","Sulfur Content  <= 1",20045,24851,81046,68736,12.0,-31.8,-15.2
+"Texas","Sulfur Content  > 1",31157,29711,62990,100553,-13.9,52.2,59.6
+"PAD District 4","Motor Gasoline",411011,453778,1215181,1292190,-0.3,4.9,6.3
+"PAD District 4","Regular",330970,369689,959031,1043128,0.9,7.6,8.8
+"PAD District 4","Conventional",330970,369689,959031,1043128,0.9,7.6,8.8
+"PAD District 4","Reformulated","-","-","-","-","-","-","-"
+"PAD District 4","Midgrade",6124,6318,19704,18939,-6.8,-7.1,-3.9
+"PAD District 4","Conventional",6124,6318,19704,18939,-6.8,-7.1,-3.9
+"PAD District 4","Reformulated","-","-","-","-","-","-","-"
+"PAD District 4","Premium",73917,77771,236446,230123,-5.0,-5.4,-2.7
+"PAD District 4","Conventional",73917,77771,236446,230123,-5.0,-5.4,-2.7
+"PAD District 4","Reformulated","-","-","-","-","-","-","-"
+"PAD District 4","Total Distillate","W","W","W","W","W","W","W"
+"PAD District 4","No. 1 Distillate",9324,4291,"W",23970,-58.4,21.8,"NA"
+"PAD District 4","No. 2 Distillate",268046,313729,793643,881664,5.7,13.1,11.1
+"PAD District 4","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"PAD District 4","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"PAD District 4","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"PAD District 4","Low Sulfur","-","-","-","-","-","-","-"
+"PAD District 4","High Sulfur","-","-","-","-","-","-","-"
+"PAD District 4","No. 4 Fuel","-","-","-","-","-","-","-"
+"PAD District 4","Aviation Gasoline",709,1027,2124,2374,30.8,20.3,11.8
+"PAD District 4","Kerosene-Type Jet Fu",62591,71938,146848,203839,3.8,35.9,38.8
+"PAD District 4","Kerosene",4,6,"W",16,35.5,,"NA"
+"PAD District 4","Propane",35973,35270,122075,115738,-11.4,-1.9,-5.2
+"PAD District 4","Residual Fuel Oil","-","W","-","W","W","W","NA"
+"PAD District 4","Sulfur Content  <= 1","-","W","-","W","W","W","NA"
+"PAD District 4","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Colorado","Motor Gasoline",168479,187225,501026,529726,0.4,5.9,5.7
+"Colorado","Regular",136212,152056,398480,428442,0.8,7.9,7.5
+"Colorado","Conventional",136212,152056,398480,428442,0.8,7.9,7.5
+"Colorado","Reformulated","-","-","-","-","-","-","-"
+"Colorado","Midgrade",2830,3070,8325,8917,-2.0,7.2,7.1
+"Colorado","Conventional",2830,3070,8325,8917,-2.0,7.2,7.1
+"Colorado","Reformulated","-","-","-","-","-","-","-"
+"Colorado","Premium",29437,32099,94221,92367,-1.5,-2.8,-2.0
+"Colorado","Conventional",29437,32099,94221,92367,-1.5,-2.8,-2.0
+"Colorado","Reformulated","-","-","-","-","-","-","-"
+"Colorado","Total Distillate","W","W","W","W","W","W","W"
+"Colorado","No. 1 Distillate","W","W",5950,"W","W","W","NA"
+"Colorado","No. 2 Distillate",65759,75305,204365,209526,3.4,6.9,2.5
+"Colorado","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"Colorado","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Colorado","Ultra Low Sulfur",65759,75305,"W",209526,3.4,,"NA"
+"Colorado","Low Sulfur","-","-","-","-","-","-","-"
+"Colorado","High Sulfur","-","-","-","-","-","-","-"
+"Colorado","No. 4 Fuel","-","-","-","-","-","-","-"
+"Colorado","Aviation Gasoline",285,303,795,843,-4.0,-8.5,6.0
+"Colorado","Kerosene-Type Jet Fu",28928,33279,65779,97317,3.9,33.8,47.9
+"Colorado","Kerosene","W","W","-","W","W","W","NA"
+"Colorado","Propane",12567,12409,43088,38507,-10.8,0.3,-10.6
+"Colorado","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Colorado","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Colorado","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Idaho","Motor Gasoline",60037,64991,172010,188024,-2.2,7.5,9.3
+"Idaho","Regular",50945,55984,143181,160139,-0.7,10.3,11.8
+"Idaho","Conventional",50945,55984,143181,160139,-0.7,10.3,11.8
+"Idaho","Reformulated","-","-","-","-","-","-","-"
+"Idaho","Midgrade",242,253,835,739,-5.6,-13.4,-11.5
+"Idaho","Conventional",242,253,835,739,-5.6,-13.4,-11.5
+"Idaho","Reformulated","-","-","-","-","-","-","-"
+"Idaho","Premium",8850,8754,27994,27146,-10.7,-7.2,-3.0
+"Idaho","Conventional",8850,8754,27994,27146,-10.7,-7.2,-3.0
+"Idaho","Reformulated","-","-","-","-","-","-","-"
+"Idaho","Total Distillate","W","W","W","W","W","W","W"
+"Idaho","No. 1 Distillate","W","W",1159,"W","W","W","NA"
+"Idaho","No. 2 Distillate",46760,58280,142247,165394,12.6,24.8,16.3
+"Idaho","No. 2 Fuel Oil","W",58,"W","W",,,"NA"
+"Idaho","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Idaho","Ultra Low Sulfur","W",58222,"W","W",,,"NA"
+"Idaho","Low Sulfur","-","-","-","-","-","-","-"
+"Idaho","High Sulfur","-","-","-","-","-","-","-"
+"Idaho","No. 4 Fuel","-","-","-","-","-","-","-"
+"Idaho","Aviation Gasoline",109,175,"W",378,45.0,33.6,"NA"
+"Idaho","Kerosene-Type Jet Fu",3354,4890,8352,11449,31.7,48.5,37.1
+"Idaho","Kerosene","W","W","-","W","W","W","NA"
+"Idaho","Propane",3591,3255,12057,11508,-18.1,-6.1,-4.6
+"Idaho","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Idaho","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Idaho","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Montana","Motor Gasoline",50844,59248,155811,162044,5.3,5.4,4.0
+"Montana","Regular",42010,49581,124169,134149,6.6,9.0,8.0
+"Montana","Conventional",42010,49581,124169,134149,6.6,9.0,8.0
+"Montana","Reformulated","-","-","-","-","-","-","-"
+"Montana","Midgrade",1566,1619,5068,4770,-6.6,-13.0,-5.9
+"Montana","Conventional",1566,1619,5068,4770,-6.6,-13.0,-5.9
+"Montana","Reformulated","-","-","-","-","-","-","-"
+"Montana","Premium",7268,8048,26574,23125,0.0,-9.1,-13.0
+"Montana","Conventional",7268,8048,26574,23125,0.0,-9.1,-13.0
+"Montana","Reformulated","-","-","-","-","-","-","-"
+"Montana","Total Distillate","W","W","W","W","W","W","W"
+"Montana","No. 1 Distillate",2911,1512,6893,7704,-53.1,40.4,11.8
+"Montana","No. 2 Distillate",47871,57983,138184,148787,9.4,12.7,7.7
+"Montana","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Montana","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Montana","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Montana","Low Sulfur","-","-","-","-","-","-","-"
+"Montana","High Sulfur","-","-","-","-","-","-","-"
+"Montana","No. 4 Fuel","-","-","-","-","-","-","-"
+"Montana","Aviation Gasoline","W",214,"W","W",,52.9,"NA"
+"Montana","Kerosene-Type Jet Fu",4019,4730,12737,12872,6.3,-3.8,1.1
+"Montana","Kerosene","-","-","-","-","-","-","-"
+"Montana","Propane",10126,9051,30581,32370,-19.3,5.4,5.9
+"Montana","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Montana","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Montana","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Utah","Motor Gasoline",108167,116193,313082,338630,-3.0,2.3,8.2
+"Utah","Regular",82534,90172,234281,259258,-1.3,5.2,10.7
+"Utah","Conventional",82534,90172,234281,259258,-1.3,5.2,10.7
+"Utah","Reformulated","-","-","-","-","-","-","-"
+"Utah","Midgrade",999,1045,4221,3284,-5.5,-23.0,-22.2
+"Utah","Conventional",999,1045,4221,3284,-5.5,-23.0,-22.2
+"Utah","Reformulated","-","-","-","-","-","-","-"
+"Utah","Premium",24634,24976,74580,76088,-8.4,-5.5,2.0
+"Utah","Conventional",24634,24976,74580,76088,-8.4,-5.5,2.0
+"Utah","Reformulated","-","-","-","-","-","-","-"
+"Utah","Total Distillate","W","W","W","W","W","W","W"
+"Utah","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Utah","No. 2 Distillate",61112,68719,188455,208143,1.6,3.7,10.4
+"Utah","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Utah","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Utah","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Utah","Low Sulfur","-","-","-","-","-","-","-"
+"Utah","High Sulfur","-","-","-","-","-","-","-"
+"Utah","No. 4 Fuel","-","-","-","-","-","-","-"
+"Utah","Aviation Gasoline",193,258,480,627,20.7,27.1,30.6
+"Utah","Kerosene-Type Jet Fu",23640,26268,52994,74843,0.4,50.5,41.2
+"Utah","Kerosene","W","W","W","W","W","W","NA"
+"Utah","Propane",4021,4759,13416,13826,6.9,-7.3,3.1
+"Utah","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Utah","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Utah","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Wyoming","Motor Gasoline",23484,26121,73252,73766,0.5,2.2,0.7
+"Wyoming","Regular",19269,21896,58920,61140,2.6,5.7,3.8
+"Wyoming","Conventional",19269,21896,58920,61140,2.6,5.7,3.8
+"Wyoming","Reformulated","-","-","-","-","-","-","-"
+"Wyoming","Midgrade",487,331,1255,1229,-38.6,-21.7,-2.1
+"Wyoming","Conventional",487,331,1255,1229,-38.6,-21.7,-2.1
+"Wyoming","Reformulated","-","-","-","-","-","-","-"
+"Wyoming","Premium",3728,3894,13077,11397,-5.7,-11.9,-12.8
+"Wyoming","Conventional",3728,3894,13077,11397,-5.7,-11.9,-12.8
+"Wyoming","Reformulated","-","-","-","-","-","-","-"
+"Wyoming","Total Distillate","W","W","W","W","W","W","W"
+"Wyoming","No. 1 Distillate","W",1119,4314,"W",,30.6,"NA"
+"Wyoming","No. 2 Distillate",46544,53442,120392,149814,3.7,25.6,24.4
+"Wyoming","No. 2 Fuel Oil","-","-","W","-","-","-","NA"
+"Wyoming","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Wyoming","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Wyoming","Low Sulfur","-","-","-","-","-","-","-"
+"Wyoming","High Sulfur","-","-","-","-","-","-","-"
+"Wyoming","No. 4 Fuel","-","-","-","-","-","-","-"
+"Wyoming","Aviation Gasoline","W",77,"W","W",,57.1,"NA"
+"Wyoming","Kerosene-Type Jet Fu",2650,2771,6986,7358,-5.6,15.9,5.3
+"Wyoming","Kerosene","W","-","-","W","-","-","NA"
+"Wyoming","Propane",5668,5796,22933,19527,-7.6,-9.4,-14.9
+"Wyoming","Residual Fuel Oil","-","W","-","W","W","W","NA"
+"Wyoming","Sulfur Content  <= 1","-","W","-","W","W","W","NA"
+"Wyoming","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"PAD District 5","Motor Gasoline",1577379,1731600,4758364,4902887,-0.8,-0.8,3.0
+"PAD District 5","Regular",1249183,1395826,3685145,3906199,0.9,2.9,6.0
+"PAD District 5","Conventional",441635,487020,1293071,1381323,-0.4,2.5,6.8
+"PAD District 5","Reformulated",807548,908806,2392074,2524876,1.6,3.1,5.6
+"PAD District 5","Midgrade",19278,18989,83236,57311,-11.0,-37.5,-31.1
+"PAD District 5","Conventional",5932,4857,21782,16841,-26.0,-39.1,-22.7
+"PAD District 5","Reformulated",13346,14132,61454,40470,-4.4,-37.0,-34.1
+"PAD District 5","Premium",308918,316785,989983,939377,-7.4,-11.6,-5.1
+"PAD District 5","Conventional",80943,83899,267298,249261,-6.4,-13.9,-6.7
+"PAD District 5","Reformulated",227975,232886,722685,690116,-7.7,-10.7,-4.5
+"PAD District 5","Total Distillate","W","W","W","W","W","W","W"
+"PAD District 5","No. 1 Distillate",16669,11985,"W",47252,-35.1,-15.3,"NA"
+"PAD District 5","No. 2 Distillate",556020,618533,1836631,1741144,0.5,-7.9,-5.2
+"PAD District 5","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"PAD District 5","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"PAD District 5","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"PAD District 5","Low Sulfur","-","-","-","-","-","-","-"
+"PAD District 5","High Sulfur","W","W","W","W","W","W","NA"
+"PAD District 5","No. 4 Fuel","-","-","-","-","-","-","-"
+"PAD District 5","Aviation Gasoline",2264,2914,9712,7176,16.3,16.1,-26.1
+"PAD District 5","Kerosene-Type Jet Fu",466958,504190,1138036,1475693,-2.5,18.5,29.7
+"PAD District 5","Kerosene",1977,2017,"W",4275,-7.8,320.2,"NA"
+"PAD District 5","Propane",83423,93440,261576,278293,1.2,2.1,6.4
+"PAD District 5","Residual Fuel Oil",87423,90221,300851,275429,-6.8,-16.6,-8.5
+"PAD District 5","Sulfur Content  <= 1",48040,54289,198217,159452,2.1,-26.8,-19.6
+"PAD District 5","Sulfur Content  > 1",39383,35932,102634,115977,-17.6,5.6,13.0
+"Alaska","Motor Gasoline",16780,17677,54417,52970,-4.8,-11.3,-2.7
+"Alaska","Regular",14869,16707,46852,48043,1.5,-2.8,2.5
+"Alaska","Conventional",14869,16707,46852,48043,1.5,-2.8,2.5
+"Alaska","Reformulated","-","-","-","-","-","-","-"
+"Alaska","Midgrade","W","W",1961,"W","W","W","NA"
+"Alaska","Conventional","W","W",1961,"W","W","W","NA"
+"Alaska","Reformulated","-","-","-","-","-","-","-"
+"Alaska","Premium","W","W",5604,"W","W","W","NA"
+"Alaska","Conventional","W","W",5604,"W","W","W","NA"
+"Alaska","Reformulated","-","-","-","-","-","-","-"
+"Alaska","Total Distillate","W","W","W","W","W","W","W"
+"Alaska","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Alaska","No. 2 Distillate","W","W","W","W","W","W","NA"
+"Alaska","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Alaska","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Alaska","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"Alaska","Low Sulfur","-","-","-","-","-","-","-"
+"Alaska","High Sulfur","-","-","W","-","-","-","NA"
+"Alaska","No. 4 Fuel","-","-","-","-","-","-","-"
+"Alaska","Aviation Gasoline","W","W","W","W","W","W","NA"
+"Alaska","Kerosene-Type Jet Fu",48873,62250,170348,168904,15.0,7.6,-0.8
+"Alaska","Kerosene","W","W","-","W","W","W","NA"
+"Alaska","Propane","W","W","W","W","W","W","NA"
+"Alaska","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Alaska","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Alaska","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Arizona","Motor Gasoline",221435,246859,684221,698630,0.7,-1.3,2.1
+"Arizona","Regular",191067,215975,581995,605137,2.1,0.9,4.0
+"Arizona","Conventional",79656,89045,"W","W",1.0,,"NA"
+"Arizona","Reformulated",111411,126930,"W","W",2.9,,"NA"
+"Arizona","Midgrade",3120,"W",10690,"W",,"W","NA"
+"Arizona","Conventional","W","W","W","W","W","W","NA"
+"Arizona","Reformulated","W","W","W","W","W","W","NA"
+"Arizona","Premium",27248,"W",91536,"W",,"W","NA"
+"Arizona","Conventional","W","W","W","W","W","W","NA"
+"Arizona","Reformulated","W","W","W","W","W","W","NA"
+"Arizona","Total Distillate","W","W","W","W","W","W","W"
+"Arizona","No. 1 Distillate","-","-","W","-","-","-","NA"
+"Arizona","No. 2 Distillate",100647,116725,321842,324003,4.8,-0.1,0.7
+"Arizona","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"Arizona","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Arizona","Ultra Low Sulfur",100647,116725,321842,324003,4.8,-0.1,0.7
+"Arizona","Low Sulfur","-","-","-","-","-","-","-"
+"Arizona","High Sulfur","-","-","-","-","-","-","-"
+"Arizona","No. 4 Fuel","-","-","-","-","-","-","-"
+"Arizona","Aviation Gasoline",495,654,1646,1561,19.3,6.0,-5.2
+"Arizona","Kerosene-Type Jet Fu",18546,21480,42167,56289,4.6,27.8,33.5
+"Arizona","Kerosene","-","-","W","-","-","-","NA"
+"Arizona","Propane",8882,8589,31783,26660,-12.7,-28.1,-16.1
+"Arizona","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Arizona","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Arizona","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"California","Motor Gasoline",919566,1010408,2779969,2847687,-0.8,-0.9,2.4
+"California","Regular",696137,781876,2055511,2172283,1.4,3.2,5.7
+"California","Conventional","-","-","-","-","-","-","-"
+"California","Reformulated",696137,781876,2055511,2172283,1.4,3.2,5.7
+"California","Midgrade",11294,12007,55088,34152,-4.0,-40.4,-38.0
+"California","Conventional","-","-","-","-","-","-","-"
+"California","Reformulated","W","W","W","W","W","W","NA"
+"California","Premium",212135,216525,669370,641252,-7.8,-10.6,-4.2
+"California","Conventional","-","-","-","-","-","-","-"
+"California","Reformulated","W","W","W","W","W","W","NA"
+"California","Total Distillate","W","W","W","W","W","W","W"
+"California","No. 1 Distillate","-","-","-","-","-","-","-"
+"California","No. 2 Distillate",237963,264504,845904,"W",0.4,-14.9,"NA"
+"California","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"California","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"California","Ultra Low Sulfur","W","W","W","W","W","W","NA"
+"California","Low Sulfur","-","-","-","-","-","-","-"
+"California","High Sulfur","W","W","W","W","W","W","NA"
+"California","No. 4 Fuel","-","-","-","-","-","-","-"
+"California","Aviation Gasoline",1113,1427,3166,3624,15.8,18.3,14.5
+"California","Kerosene-Type Jet Fu",274103,289076,636830,863057,-4.7,21.2,35.5
+"California","Kerosene",196,308,714,"W",41.9,32.2,"NA"
+"California","Propane",43166,53637,144770,158373,12.2,5.7,9.4
+"California","Residual Fuel Oil",49357,47364,142466,145897,-13.3,-8.4,2.4
+"California","Sulfur Content  <= 1",19408,"W","W","W",,"W","NA"
+"California","Sulfur Content  > 1",29949,"W","W","W",,"W","NA"
+"Hawaii","Motor Gasoline",34622,38261,99243,108230,-0.2,7.3,9.1
+"Hawaii","Regular",26704,30168,72008,83958,2.0,19.1,16.6
+"Hawaii","Conventional",26704,30168,72008,83958,2.0,19.1,16.6
+"Hawaii","Reformulated","-","-","-","-","-","-","-"
+"Hawaii","Midgrade","W",1464,5196,"W",,-21.8,"NA"
+"Hawaii","Conventional","W",1464,5196,"W",,-21.8,"NA"
+"Hawaii","Reformulated","-","-","-","-","-","-","-"
+"Hawaii","Premium","W",6629,22039,"W",,-21.6,"NA"
+"Hawaii","Conventional","W",6629,22039,"W",,-21.6,"NA"
+"Hawaii","Reformulated","-","-","-","-","-","-","-"
+"Hawaii","Total Distillate","W","W","W","W","W","W","W"
+"Hawaii","No. 1 Distillate","-","-","-","-","-","-","-"
+"Hawaii","No. 2 Distillate","W","W","W","W","W","W","NA"
+"Hawaii","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"Hawaii","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Hawaii","Ultra Low Sulfur",9697,"NA","W","W",,"NA","NA"
+"Hawaii","Low Sulfur","-","-","-","-","-","-","-"
+"Hawaii","High Sulfur","W","W","W","W","W","W","NA"
+"Hawaii","No. 4 Fuel","-","-","-","-","-","-","-"
+"Hawaii","Aviation Gasoline","W","W","W","W","W","W","NA"
+"Hawaii","Kerosene-Type Jet Fu",43615,"NA",101709,"W",,"NA","NA"
+"Hawaii","Kerosene","-","-","-","-","-","-","-"
+"Hawaii","Propane","W","W","W","W","W","W","NA"
+"Hawaii","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Hawaii","Sulfur Content  <= 1","W","NA","W","W","NA","NA","NA"
+"Hawaii","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+"Nevada","Motor Gasoline",85113,93480,254310,267258,-0.8,-0.6,5.1
+"Nevada","Regular",66426,73645,193066,209609,0.1,2.7,8.6
+"Nevada","Conventional",66426,73645,"W","W",0.1,,"NA"
+"Nevada","Reformulated","-","-","W","W","-","-","NA"
+"Nevada","Midgrade",911,1124,3244,2984,11.4,-7.1,-8.0
+"Nevada","Conventional",911,1124,3244,2984,11.4,-7.1,-8.0
+"Nevada","Reformulated","-","-","-","-","-","-","-"
+"Nevada","Premium",17776,18711,58000,54665,-4.9,-11.4,-5.7
+"Nevada","Conventional",17776,"W","W","W",,"W","NA"
+"Nevada","Reformulated","-","W","W","W","W","W","NA"
+"Nevada","Total Distillate","W","W","W","W","W","W","W"
+"Nevada","No. 1 Distillate",36,"W","W","W",,"W","NA"
+"Nevada","No. 2 Distillate","W",49820,"W","W",,,"NA"
+"Nevada","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Nevada","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Nevada","Ultra Low Sulfur",43717,"W","W","W",,"W","NA"
+"Nevada","Low Sulfur","-","-","-","-","-","-","-"
+"Nevada","High Sulfur","-","-","-","-","-","-","-"
+"Nevada","No. 4 Fuel","-","-","-","-","-","-","-"
+"Nevada","Aviation Gasoline",123,186,340,"W",36.6,56.3,"NA"
+"Nevada","Kerosene-Type Jet Fu",16840,18632,39804,52400,-0.1,18.9,31.6
+"Nevada","Kerosene","W","W","W","W","W","W","NA"
+"Nevada","Propane",3066,2795,10126,9126,-17.7,-13.9,-9.9
+"Nevada","Residual Fuel Oil","-","-","-","-","-","-","-"
+"Nevada","Sulfur Content  <= 1","-","-","-","-","-","-","-"
+"Nevada","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Oregon","Motor Gasoline",106858,115959,321340,332083,-2.0,-0.8,3.3
+"Oregon","Regular",93802,101866,277118,291106,-1.9,1.1,5.0
+"Oregon","Conventional",93802,101866,277118,291106,-1.9,1.1,5.0
+"Oregon","Reformulated","-","-","-","-","-","-","-"
+"Oregon","Midgrade","NA",275,1827,"W",,-59.6,"NA"
+"Oregon","Conventional","NA",275,1827,"W",,-59.6,"NA"
+"Oregon","Reformulated","-","-","-","-","-","-","-"
+"Oregon","Premium",12548,13818,42395,39694,-0.5,-10.7,-6.4
+"Oregon","Conventional",12548,13818,42395,39694,-0.5,-10.7,-6.4
+"Oregon","Reformulated","-","-","-","-","-","-","-"
+"Oregon","Total Distillate","W","W","W","W","W","W","W"
+"Oregon","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Oregon","No. 2 Distillate","W","W",193950,"W","W","W","NA"
+"Oregon","No. 2 Fuel Oil","-","-","-","-","-","-","-"
+"Oregon","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Oregon","Ultra Low Sulfur",60044,67867,"W","W",2.1,,"NA"
+"Oregon","Low Sulfur","-","-","-","-","-","-","-"
+"Oregon","High Sulfur","W","W","W","W","W","W","NA"
+"Oregon","No. 4 Fuel","-","-","-","-","-","-","-"
+"Oregon","Aviation Gasoline",177,231,580,548,17.9,-12.5,-5.5
+"Oregon","Kerosene-Type Jet Fu",9660,9789,25867,29180,-8.5,-9.6,12.8
+"Oregon","Kerosene","-","-","W","-","-","-","NA"
+"Oregon","Propane",5554,4938,16630,16014,-19.7,-15.6,-3.7
+"Oregon","Residual Fuel Oil","W","W","W","W","W","W","NA"
+"Oregon","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Oregon","Sulfur Content  > 1","-","-","-","-","-","-","-"
+"Washington","Motor Gasoline",193005,208956,564864,596029,-2.2,-0.1,5.5
+"Washington","Regular",160178,175589,458595,496063,-1.0,3.1,8.2
+"Washington","Conventional",160178,175589,458595,496063,-1.0,3.1,8.2
+"Washington","Reformulated","-","-","-","-","-","-","-"
+"Washington","Midgrade",1425,1362,5230,4223,-13.7,-27.2,-19.3
+"Washington","Conventional",1425,1362,"W",4223,-13.7,,"NA"
+"Washington","Reformulated","-","-","-","-","-","-","-"
+"Washington","Premium",31402,32005,101039,95743,-7.9,-13.2,-5.2
+"Washington","Conventional",31402,32005,"W",95743,-7.9,,"NA"
+"Washington","Reformulated","-","-","-","-","-","-","-"
+"Washington","Total Distillate","W","W","W","W","W","W","W"
+"Washington","No. 1 Distillate","W","W","W","W","W","W","NA"
+"Washington","No. 2 Distillate",88911,92916,"W","W",-5.6,-4.6,"NA"
+"Washington","No. 2 Fuel Oil","W","W","W","W","W","W","NA"
+"Washington","No. 2 Diesel Fuel","NA","NA","NA","NA","NA","NA","NA"
+"Washington","Ultra Low Sulfur",87815,92289,"W","W",-5.1,-3.9,"NA"
+"Washington","Low Sulfur","-","-","-","-","-","-","-"
+"Washington","High Sulfur","W","W","W","W","W","W","NA"
+"Washington","No. 4 Fuel","-","-","-","-","-","-","-"
+"Washington","Aviation Gasoline",242,329,705,734,22.8,29.5,4.1
+"Washington","Kerosene-Type Jet Fu",55321,58252,121311,172299,-4.9,13.6,42.0
+"Washington","Kerosene","W","W","W","W","W","W","NA"
+"Washington","Propane",21172,22302,53388,63872,-4.9,25.5,19.6
+"Washington","Residual Fuel Oil",12215,13578,70672,39958,0.4,-52.9,-43.5
+"Washington","Sulfur Content  <= 1","W","W","W","W","W","W","NA"
+"Washington","Sulfur Content  > 1","W","W","W","W","W","W","NA"
+

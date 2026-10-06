@@ -1,0 +1,5 @@
+plant_id,plant_name,location,lat,lon,capacity_units_per_day,prod_cost_per_unit
+P1,Baytown Refinery,"Baytown, TX",29.7355,-94.9774,3981467.0,38.2
+P2,Beaumont Refinery,"Beaumont, TX",30.0802,-94.1266,2986100.0,38.9
+P3,Baton Rouge Refinery,"Baton Rouge, LA",30.4515,-91.1871,2701710.0,39.4
+P4,Joliet Refinery,"Joliet, IL",41.525,-88.0817,1848538.0,41.1
